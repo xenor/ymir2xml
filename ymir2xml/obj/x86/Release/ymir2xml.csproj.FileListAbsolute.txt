@@ -1,0 +1,10 @@
+C:\Users\xenor\AppData\Local\Temporary Projects\ymir2xml\bin\Release\ymir2xml.exe
+C:\Users\xenor\AppData\Local\Temporary Projects\ymir2xml\bin\Release\ymir2xml.pdb
+C:\Users\xenor\AppData\Local\Temporary Projects\ymir2xml\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\xenor\AppData\Local\Temporary Projects\ymir2xml\obj\x86\Release\ymir2xml.exe
+C:\Users\xenor\AppData\Local\Temporary Projects\ymir2xml\obj\x86\Release\ymir2xml.pdb
+C:\Users\xenor\documents\visual studio 2010\Projects\ymir2xml\ymir2xml\obj\x86\Release\ymir2xml.exe
+C:\Users\xenor\documents\visual studio 2010\Projects\ymir2xml\ymir2xml\obj\x86\Release\ymir2xml.pdb
+C:\Users\xenor\documents\visual studio 2010\Projects\ymir2xml\ymir2xml\bin\Release\ymir2xml.exe
+C:\Users\xenor\documents\visual studio 2010\Projects\ymir2xml\ymir2xml\bin\Release\ymir2xml.pdb
+C:\Users\xenor\documents\visual studio 2010\Projects\ymir2xml\ymir2xml\obj\x86\Release\ResolveAssemblyReference.cache

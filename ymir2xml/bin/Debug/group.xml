@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ymir2xml>
+  <metadata>
+    <out>group.txt</out>
+    <type>group</type>
+  </metadata>
+  <groups>
+    <group name="L60_Dämonenbogenschütze(S_PAWN)-Zombiesoldat(S_PAWN)" vnum="2501">
+      <mob name="Dämonenbogenschütze">101</mob>
+      <mob name="Zombiesoldat">102</mob>
+      <mob name="Zombiesoldat">102</mob>
+      <mob name="Zombiesoldat">101</mob>
+      <mob name="Zombiesoldat">102</mob>
+    </group>
+    <group name="L60_Dämonenbogenschütze(S_PAWN)-Dämonenbogenschütze(S_PAWN)" vnum="2502">
+      <mob name="Dämonenbogenschütze">103</mob>
+      <mob name="Dämonenbogenschütze">103</mob>
+      <mob name="Zombiesoldat">105</mob>
+      <mob name="Zombiesoldat">103</mob>
+      <mob name="Zombiesoldat">0101</mob>
+    </group>
+    <group name="L60_Dämonenbogenschütze(S_PAWN)-Dämonenbogenschütze(S_PAWN)" vnum="2503">
+      <mob name="Dämonenbogenschütze">25000016519</mob>
+      <mob name="Dämonenbogenschütze">301</mob>
+      <mob name="Dämonenbogenschütze">101</mob>
+      <mob name="Zombiesoldat">505</mob>
+      <mob name="Zombiesoldat">101</mob>
+    </group>
+  </groups>
+</ymir2xml>

@@ -1,0 +1,16 @@
+Vnum	2501
+Leader	D�monenbogensch�tze	2509
+1	Zombiesoldat	2508
+2	Zombiesoldat	2508
+3	Zombiesoldat	2508
+4	Zombiesoldat	2508
+
+
+Vnum	2502
+Leader	D�monenbogensch�tze	2509
+1	D�monenbogensch�tze	2509
+2	Zombiesoldat	2508
+3	Zombiesoldat	2508
+4	Zombiesoldat	2508
+
+

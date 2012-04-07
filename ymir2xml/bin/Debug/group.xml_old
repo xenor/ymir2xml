@@ -1,0 +1,3196 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ymir2xml>
+  <metadata>
+    <out>group.txt</out>
+    <type>group</type>
+  </metadata>
+  <groups>
+    <group name="L60_Dämonenbogenschütze(S_PAWN)-Zombiesoldat(S_PAWN)" vnum="2501">
+      <mob name="Dämonenbogenschütze">2509</mob>
+      <mob name="Zombiesoldat">2508</mob>
+      <mob name="Zombiesoldat">2508</mob>
+      <mob name="Zombiesoldat">2508</mob>
+      <mob name="Zombiesoldat">2508</mob>
+    </group>
+    <group name="L60_Dämonenbogenschütze(S_PAWN)-Dämonenbogenschütze(S_PAWN)" vnum="2502">
+      <mob name="Dämonenbogenschütze">2509</mob>
+      <mob name="Dämonenbogenschütze">2509</mob>
+      <mob name="Zombiesoldat">2508</mob>
+      <mob name="Zombiesoldat">2508</mob>
+      <mob name="Zombiesoldat">2508</mob>
+    </group>
+    <group name="L60_Dämonenbogenschütze(S_PAWN)-Dämonenbogenschütze(S_PAWN)" vnum="2503">
+      <mob name="Dämonenbogenschütze">2509</mob>
+      <mob name="Dämonenbogenschütze">2509</mob>
+      <mob name="Dämonenbogenschütze">2509</mob>
+      <mob name="Zombiesoldat">2508</mob>
+      <mob name="Zombiesoldat">2508</mob>
+    </group>
+    <group name="L16_Dämonenspeerkämpfer(S_PAWN)-Dämonenbogenschütze(S_PAWN)" vnum="2504">
+      <mob name="Dämonenspeerkämpfer">2510</mob>
+      <mob name="Dämonenbogenschütze">2509</mob>
+      <mob name="Dämonenbogenschütze">2509</mob>
+      <mob name="Zombiesoldat">2508</mob>
+      <mob name="Zombiesoldat">2508</mob>
+    </group>
+    <group name="L16_Dämonenspeerkämpfer(S_PAWN)-Dämonenspeerkämpfer(S_PAWN)" vnum="2505">
+      <mob name="Dämonenspeerkämpfer">2510</mob>
+      <mob name="Dämonenspeerkämpfer">2510</mob>
+      <mob name="Dämonenbogenschütze">2509</mob>
+      <mob name="Dämonenbogenschütze">2509</mob>
+      <mob name="Dämonenbogenschütze">2509</mob>
+    </group>
+    <group name="L36_Dämonenschamane(KNIGHT)-Dämonenspeerkämpfer(S_PAWN)" vnum="2506">
+      <mob name="Dämonenschamane">2511</mob>
+      <mob name="Dämonenspeerkämpfer">2510</mob>
+      <mob name="Dämonenspeerkämpfer">2510</mob>
+      <mob name="Dämonenbogenschütze">2509</mob>
+      <mob name="Dämonenbogenschütze">2509</mob>
+    </group>
+    <group name="L36_Dämonenschamane(KNIGHT)-Dämonenschamane(KNIGHT)" vnum="2507">
+      <mob name="Dämonenschamane">2511</mob>
+      <mob name="Dämonenschamane">2511</mob>
+      <mob name="Dämonenspeerkämpfer">2510</mob>
+      <mob name="Dämonenspeerkämpfer">2510</mob>
+      <mob name="Dämonenspeerkämpfer">2510</mob>
+    </group>
+    <group name="L43_GemeinerBogenschütze(KNIGHT)-GemeinerSoldat(KNIGHT)" vnum="2508">
+      <mob name="GemeinerBogenschütze">2509</mob>
+      <mob name="GemeinerSoldat">1031</mob>
+      <mob name="GemeinerSoldat">1031</mob>
+      <mob name="GemeinerSoldat">1031</mob>
+      <mob name="GemeinerSoldat">1031</mob>
+    </group>
+    <group name="GMGUILDBUILD3" vnum="152">
+      <mob name="RBB">2315</mob>
+      <mob name="RBB">2315</mob>
+      <mob name="RGeisterbaums">2312</mob>
+    </group>
+    <group name="Devildown2NDSpawn1" vnum="1504">
+      <mob name="RiesigerFelsengolem">1503</mob>
+      <mob name="Steinbeisser">1501</mob>
+      <mob name="Zerstoerer">1401</mob>
+      <mob name="Steinbeisser">1502</mob>
+    </group>
+    <group name="Devildown2NDSpawn2" vnum="1505">
+      <mob name="Tausendkaempfer">1403</mob>
+      <mob name="Axtkaempfer">1402</mob>
+      <mob name="Zerstoerer">1401</mob>
+    </group>
+    <group name="Devildown2NDSpawn3" vnum="1506">
+      <mob name="Tausendkaempfer">1403</mob>
+      <mob name="RiesigerFelsengolem">1503</mob>
+      <mob name="Steinbeisser">1501</mob>
+    </group>
+    <group name="DevildownZombies1" vnum="1507">
+      <mob name="ZombieRiese">2522</mob>
+      <mob name="ZombieSpeer">2512</mob>
+      <mob name="ZombieBogi">2509</mob>
+    </group>
+    <group name="DevildownZombies2" vnum="1508">
+      <mob name="ZombieGeneral">2521</mob>
+      <mob name="ZombieSpeer">2512</mob>
+      <mob name="ZombieAnfuehrer">2520</mob>
+      <mob name="ZombieRiese">2522</mob>
+    </group>
+    <group name="DevildownZombies3" vnum="1509">
+      <mob name="ZombieBogi">2509</mob>
+      <mob name="ZombieBogi">2509</mob>
+      <mob name="ZombieSchamane">2518</mob>
+      <mob name="ZombieSpeer">2512</mob>
+    </group>
+    <group name="DevildownZombies4" vnum="1510">
+      <mob name="ZombieBogi">2509</mob>
+      <mob name="ZombieBogi">2509</mob>
+      <mob name="ZombieSpeer">2512</mob>
+    </group>
+    <group name="DevildownFlame1" vnum="1511">
+      <mob name="Flammenkrieger">7022</mob>
+      <mob name="Flammenkrieger">7022</mob>
+      <mob name="Flammenkrieger">7022</mob>
+      <mob name="Flammenkrieger">7022</mob>
+      <mob name="Flammenkrieger">7022</mob>
+      <mob name="Flammenkrieger">7022</mob>
+      <mob name="Flammenkrieger">7022</mob>
+      <mob name="Flammenkrieger">7022</mob>
+      <mob name="Flammenkrieger">7022</mob>
+      <mob name="Kampftiger">7021</mob>
+      <mob name="Kampftiger">7021</mob>
+      <mob name="Kampftiger">7021</mob>
+      <mob name="Kampftiger">7021</mob>
+      <mob name="Kampftiger">7021</mob>
+      <mob name="Kampftiger">7021</mob>
+      <mob name="Flamme">7023</mob>
+      <mob name="Flamme">7023</mob>
+      <mob name="Flamme">7023</mob>
+      <mob name="Flamme">7023</mob>
+      <mob name="Flamme">7023</mob>
+      <mob name="Flamme">7023</mob>
+      <mob name="Flamme">7023</mob>
+    </group>
+    <group name="DevildownFlame2" vnum="1512">
+      <mob name="Flammengeist">7020</mob>
+      <mob name="Flammengeist">7020</mob>
+      <mob name="Flammengeist">7020</mob>
+      <mob name="Flammengeist">7020</mob>
+      <mob name="Flammengeist">7020</mob>
+    </group>
+    <group name="DevildownFlame2" vnum="1513">
+      <mob name="Flammengeist">7020</mob>
+      <mob name="Flammengeist">7020</mob>
+      <mob name="Flammengeist">7020</mob>
+    </group>
+    <group name="Zombie01" vnum="2501">
+      <mob name="Zombiebogi">2508</mob>
+      <mob name="Zombiesoldat">2514</mob>
+      <mob name="Zombiesoldat">2514</mob>
+      <mob name="Zombiesoldat">2514</mob>
+      <mob name="Zombiesoldat">2514</mob>
+    </group>
+    <group name="Zombie02" vnum="2502">
+      <mob name="Zombiebogi">2508</mob>
+      <mob name="Zombiebogi">2508</mob>
+      <mob name="Zombiesoldat">2514</mob>
+      <mob name="Zombiesoldat">2514</mob>
+      <mob name="Zombiesoldat">2514</mob>
+    </group>
+    <group name="Zombie03" vnum="2503">
+      <mob name="Zombiebogi">2508</mob>
+      <mob name="Zombiebogi">2508</mob>
+      <mob name="Zombiebogi">2508</mob>
+      <mob name="Zombiesoldat">2514</mob>
+      <mob name="Zombiesoldat">2514</mob>
+    </group>
+    <group name="Zombie04" vnum="2504">
+      <mob name="Zombiespeer">2511</mob>
+      <mob name="Zombiebogi">2508</mob>
+      <mob name="Zombiebogi">2508</mob>
+      <mob name="Zombiesoldat">2514</mob>
+      <mob name="Zombiesoldat">2514</mob>
+    </group>
+    <group name="Zombie05" vnum="2505">
+      <mob name="Zombiespeer">2511</mob>
+      <mob name="Zombiespeer">2511</mob>
+      <mob name="Zombiebogi">2508</mob>
+      <mob name="Zombiebogi">2508</mob>
+      <mob name="Zombiebogi">2508</mob>
+    </group>
+    <group name="Zombie06" vnum="2506">
+      <mob name="Zombieschamane">2517</mob>
+      <mob name="Zombiespeer">2511</mob>
+      <mob name="Zombiespeer">2511</mob>
+      <mob name="Zombiebogi">2508</mob>
+      <mob name="Zombiebogi">2508</mob>
+    </group>
+    <group name="Zombie07" vnum="2507">
+      <mob name="Zombieschamane">2517</mob>
+      <mob name="Zombieschamane">2517</mob>
+      <mob name="Zombiespeer">2511</mob>
+      <mob name="Zombiespeer">2511</mob>
+      <mob name="Zombiespeer">2511</mob>
+    </group>
+    <group name="Zombie08" vnum="2508">
+      <mob name="GemeinerZombiebogi">2509</mob>
+      <mob name="GemeinerZombiesoldat">2515</mob>
+      <mob name="GemeinerZombiesoldat">2515</mob>
+      <mob name="GemeinerZombiesoldat">2515</mob>
+      <mob name="GemeinerZombiesoldat">2515</mob>
+    </group>
+    <group name="Zombie09" vnum="2509">
+      <mob name="GemeinerZombiebogi">2509</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+      <mob name="GemeinerZombiesoldat">2515</mob>
+      <mob name="GemeinerZombiesoldat">2515</mob>
+      <mob name="GemeinerZombiesoldat">2515</mob>
+    </group>
+    <group name="Zombie10" vnum="2510">
+      <mob name="GemeinerZombiebogi">2509</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+      <mob name="GemeinerZombiesoldat">2515</mob>
+      <mob name="GemeinerZombiesoldat">2515</mob>
+    </group>
+    <group name="Zombie11" vnum="2511">
+      <mob name="Gemeinerzombiespeer">2512</mob>
+      <mob name="Gemeinerzombiespeer">2512</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+      <mob name="GemeinerZombiesoldat">2515</mob>
+    </group>
+    <group name="Zombie12" vnum="2512">
+      <mob name="Gemeinerzombiespeer">2512</mob>
+      <mob name="Gemeinerzombiespeer">2512</mob>
+      <mob name="Gemeinerzombiespeer">2512</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+    </group>
+    <group name="Zombie13" vnum="2513">
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="Gemeinerzombiespeer">2512</mob>
+      <mob name="Gemeinerzombiespeer">2512</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+    </group>
+    <group name="Zombie14" vnum="2514">
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="Gemeinerzombiespeer">2512</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+    </group>
+    <group name="Zombie15" vnum="2515">
+      <mob name="GeistdesGrolls">1035</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+    </group>
+    <group name="Zombie16" vnum="2516">
+      <mob name="GeistdesGrolls">1035</mob>
+      <mob name="GeistdesGrolls">1035</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+    </group>
+    <group name="Zombie17" vnum="2517">
+      <mob name="GeistdesChaos">1036</mob>
+      <mob name="GeistdesGrolls">1035</mob>
+      <mob name="GeistdesGrolls">1035</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+    </group>
+    <group name="Zombie18" vnum="2518">
+      <mob name="GeistdesChaos">1036</mob>
+      <mob name="GeistdesChaos">1036</mob>
+      <mob name="GeistdesGrolls">1035</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+    </group>
+    <group name="Zombie19" vnum="2519">
+      <mob name="Zombieanführer">2520</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+    </group>
+    <group name="Zombie20" vnum="2520">
+      <mob name="GeistdesChaos">1038</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+    </group>
+    <group name="Zombie21" vnum="2521">
+      <mob name="Fliegender Totenkopf">1039</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="Gemeinerzombiespeer">2512</mob>
+      <mob name="Gemeinerzombiespeer">2512</mob>
+    </group>
+    <group name="Zombie22" vnum="2522">
+      <mob name="Zombiekommandant">2521</mob>
+      <mob name="Zombiekommandant">2521</mob>
+      <mob name="Zombiekommandant">2521</mob>
+      <mob name="Zombiekommandant">2521</mob>
+      <mob name="Zombiekommandant">2521</mob>
+    </group>
+    <group name="Zombie23" vnum="2523">
+      <mob name="Zombieriese">2522</mob>
+      <mob name="GeistdesGrolls">1035</mob>
+      <mob name="GeistdesChaos">1036</mob>
+      <mob name="GeistdesGrolls">1035</mob>
+      <mob name="GeistdesChaos">1036</mob>
+    </group>
+    <group name="Zombie24" vnum="2524">
+      <mob name="Dämonenkönig">2524</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="Gemeinerzombiespeer">2512</mob>
+      <mob name="Gemeinerzombiespeer">2512</mob>
+    </group>
+    <group name="Zombie25" vnum="2525">
+      <mob name="Dämonenkönig">2524</mob>
+      <mob name="Zombieanführer">2520</mob>
+      <mob name="GeistdesChaos">1038</mob>
+      <mob name="Fliegender Totenkopf">1039</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+    </group>
+    <group name="Zombie26" vnum="2526">
+      <mob name="StolzerDämonenkönig">2525</mob>
+      <mob name="Zombieanführer">2520</mob>
+      <mob name="GeistdesChaos">1038</mob>
+      <mob name="Fliegender Totenkopf">1039</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+    </group>
+    <group name="Zombie27" vnum="2527">
+      <mob name="GeistdesChaos">1038</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="GemeinerZombieschami">2518</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+      <mob name="GemeinerZombiebogi">2509</mob>
+    </group>
+    <group name="Zombie28" vnum="2528">
+      <mob name="Zombiekommandant">2521</mob>
+      <mob name="Zombiekommandant">2521</mob>
+      <mob name="Fliegender Totenkopf">1039</mob>
+      <mob name="Fliegender Totenkopf">1039</mob>
+      <mob name="GeistdesChaos">1038</mob>
+    </group>
+    <group name="Zombie29" vnum="2529">
+      <mob name="Zombiekommandant">2521</mob>
+      <mob name="Zombiekommandant">2521</mob>
+      <mob name="Zombiekommandant">2521</mob>
+      <mob name="Zombiekommandant">2521</mob>
+      <mob name="Zombiekommandant">2521</mob>
+    </group>
+    <group name="Zombie30" vnum="2530">
+      <mob name="Zombieriese">2522</mob>
+      <mob name="Zombieriese">2522</mob>
+      <mob name="Zombiekommandant">2521</mob>
+      <mob name="Zombiekommandant">2521</mob>
+      <mob name="Zombiekommandant">2521</mob>
+    </group>
+    <group name="Zombie31" vnum="2531">
+      <mob name="Zombieriese">1093</mob>
+      <mob name="Zombieriese">2522</mob>
+      <mob name="Zombiekommandant">2521</mob>
+      <mob name="Zombiekommandant">2521</mob>
+      <mob name="Zombiekommandant">2521</mob>
+    </group>
+    <group name="L01_µé°³(PAWN)-µé°³(PAWN)" vnum="101">
+      <mob name="µé°³">101</mob>
+      <mob name="µé°³">101</mob>
+      <mob name="µé°³">101</mob>
+    </group>
+    <group name="L03_´Á´ë(PAWN)-µé°³(PAWN)" vnum="102">
+      <mob name="´Á´ë">102</mob>
+      <mob name="µé°³">101</mob>
+      <mob name="µé°³">101</mob>
+    </group>
+    <group name="L03_´Á´ë(PAWN)-´Á´ë(PAWN)" vnum="103">
+      <mob name="´Á´ë">102</mob>
+      <mob name="´Á´ë">102</mob>
+      <mob name="´Á´ë">102</mob>
+    </group>
+    <group name="L04_µÎ¸ñ´Á´ë(S_PAWN)-´Á´ë(PAWN)" vnum="104">
+      <mob name="µÎ¸ñ´Á´ë">103</mob>
+      <mob name="´Á´ë">102</mob>
+      <mob name="´Á´ë">102</mob>
+    </group>
+    <group name="L06_Çª¸¥´Á´ë(PAWN)-Çª¸¥´Á´ë(PAWN)" vnum="105">
+      <mob name="Çª¸¥´Á´ë">104</mob>
+      <mob name="Çª¸¥´Á´ë">104</mob>
+      <mob name="Çª¸¥´Á´ë">104</mob>
+    </group>
+    <group name="L09_¸äµÅÁö(PAWN)-Çª¸¥´Á´ë(PAWN)" vnum="106">
+      <mob name="¸äµÅÁö">108</mob>
+      <mob name="Çª¸¥´Á´ë">104</mob>
+      <mob name="Çª¸¥´Á´ë">104</mob>
+    </group>
+    <group name="L13_Çª¸¥_µÎ¸ñ´Á´ë(S_PAWN)-¸äµÅÁö(PAWN)" vnum="107">
+      <mob name="Çª¸¥_µÎ¸ñ´Á´ë">105</mob>
+      <mob name="¸äµÅÁö">108</mob>
+      <mob name="¸äµÅÁö">108</mob>
+    </group>
+    <group name="L16_Çª¸¥_µÎ¸ñ´Á´ë(S_PAWN)-Çª¸¥_µÎ¸ñ´Á´ë(S_PAWN)" vnum="108">
+      <mob name="Çª¸¥_µÎ¸ñ´Á´ë">105</mob>
+      <mob name="Çª¸¥_µÎ¸ñ´Á´ë">105</mob>
+      <mob name="Çª¸¥_µÎ¸ñ´Á´ë">105</mob>
+    </group>
+    <group name="L16_ºÓÀº_¸äµÅÁö(S_PAWN)-Çª¸¥_µÎ¸ñ´Á´ë(S_PAWN)" vnum="109">
+      <mob name="ºÓÀº_¸äµÅÁö">109</mob>
+      <mob name="Çª¸¥_µÎ¸ñ´Á´ë">105</mob>
+      <mob name="Çª¸¥_µÎ¸ñ´Á´ë">105</mob>
+    </group>
+    <group name="L16_ºÓÀº_¸äµÅÁö(S_PAWN)-ºÓÀº_¸äµÅÁö(S_PAWN)" vnum="110">
+      <mob name="ºÓÀº_¸äµÅÁö">109</mob>
+      <mob name="ºÓÀº_¸äµÅÁö">109</mob>
+      <mob name="ºÓÀº_¸äµÅÁö">109</mob>
+    </group>
+    <group name="L16_°õ(PAWN)-ºÓÀº_¸äµÅÁö(S_PAWN)" vnum="111">
+      <mob name="°õ">110</mob>
+      <mob name="ºÓÀº_¸äµÅÁö">109</mob>
+      <mob name="ºÓÀº_¸äµÅÁö">109</mob>
+    </group>
+    <group name="L16_°õ(PAWN)-°õ(PAWN)" vnum="112">
+      <mob name="°õ">110</mob>
+      <mob name="°õ">110</mob>
+      <mob name="°õ">110</mob>
+    </group>
+    <group name="L16_È¸»ö´Á´ë(PAWN)-°õ(PAWN)" vnum="113">
+      <mob name="È¸»ö´Á´ë">106</mob>
+      <mob name="°õ">110</mob>
+      <mob name="°õ">110</mob>
+    </group>
+    <group name="L16_È¸»ö´Á´ë(PAWN)-È¸»ö´Á´ë(PAWN)" vnum="114">
+      <mob name="È¸»ö´Á´ë">106</mob>
+      <mob name="È¸»ö´Á´ë">106</mob>
+      <mob name="È¸»ö´Á´ë">106</mob>
+    </group>
+    <group name="L19_È¸»ö°õ(S_PAWN)-È¸»ö´Á´ë(PAWN)" vnum="115">
+      <mob name="È¸»ö°õ">111</mob>
+      <mob name="È¸»ö´Á´ë">106</mob>
+      <mob name="È¸»ö´Á´ë">106</mob>
+    </group>
+    <group name="L21_È¸»ö°õ(S_PAWN)-È¸»ö°õ(PAWN)" vnum="116">
+      <mob name="È¸»ö°õ">111</mob>
+      <mob name="È¸»ö°õ">111</mob>
+      <mob name="È¸»ö°õ">111</mob>
+    </group>
+    <group name="L21_È¸»ö_µÎ¸ñ´Á´ë(S_PAWN)-È¸»ö°õ(S_PAWN)" vnum="117">
+      <mob name="È¸»ö_µÎ¸ñ´Á´ë">107</mob>
+      <mob name="È¸»ö°õ">111</mob>
+      <mob name="È¸»ö°õ">111</mob>
+    </group>
+    <group name="L21_È¸»ö_µÎ¸ñ´Á´ë(S_PAWN)-È¸»ö_µÎ¸ñ´Á´ë(S_PAWN)" vnum="118">
+      <mob name="È¸»ö_µÎ¸ñ´Á´ë">107</mob>
+      <mob name="È¸»ö_µÎ¸ñ´Á´ë">107</mob>
+      <mob name="È¸»ö_µÎ¸ñ´Á´ë">107</mob>
+    </group>
+    <group name="L24_È£¶ûÀÌ(PAWN)-È¸»ö_µÎ¸ñ´Á´ë(S_PAWN)" vnum="119">
+      <mob name="È£¶ûÀÌ">114</mob>
+      <mob name="È¸»ö_µÎ¸ñ´Á´ë">107</mob>
+      <mob name="È¸»ö_µÎ¸ñ´Á´ë">107</mob>
+    </group>
+    <group name="L24_È£¶ûÀÌ(PAWN)-È£¶ûÀÌ(PAWN)" vnum="120">
+      <mob name="È£¶ûÀÌ">114</mob>
+      <mob name="È£¶ûÀÌ">114</mob>
+      <mob name="È£¶ûÀÌ">114</mob>
+    </group>
+    <group name="L08_°ËÀº°õ(S_PWAN)-È£¶ûÀÌ(PWAN)" vnum="121">
+      <mob name="°ËÀº°õ">112</mob>
+      <mob name="È£¶ûÀÌ">114</mob>
+      <mob name="È£¶ûÀÌ">114</mob>
+    </group>
+    <group name="L09_°ËÀº°õ(S_PWAN)-°ËÀº°õ(S_PWAN)" vnum="122">
+      <mob name="°ËÀº°õ">112</mob>
+      <mob name="°ËÀº°õ">112</mob>
+      <mob name="°ËÀº°õ">112</mob>
+    </group>
+    <group name="L11_ºÒ°õ(S_PWAN)-°ËÀº°õ(S-PWAN)" vnum="123">
+      <mob name="ºÒ°õ">113</mob>
+      <mob name="°ËÀº°õ">112</mob>
+      <mob name="°ËÀº°õ">113</mob>
+    </group>
+    <group name="L14_ºÒ°õ(S_PWAN)-ºÒ°õ(S-PWAN)" vnum="124">
+      <mob name="ºÒ°õ">113</mob>
+      <mob name="ºÒ°õ">113</mob>
+      <mob name="ºÒ°õ">113</mob>
+    </group>
+    <group name="L18_´ëÈ£(S_PWAN)-ºÒ°õ(S_PWAN)" vnum="125">
+      <mob name="´ëÈ£">115</mob>
+      <mob name="ºÒ°õ">113</mob>
+      <mob name="ºÒ°õ">113</mob>
+    </group>
+    <group name="L21_´ëÈ£(S_PWAN)-´ëÈ£(S_PWAN)" vnum="126">
+      <mob name="´ëÈ£">115</mob>
+      <mob name="´ëÈ£">115</mob>
+      <mob name="´ëÈ£">115</mob>
+    </group>
+    <group name="L30_ÀúÁÖ¹ÞÀº´Á´ë" vnum="127">
+      <mob name="ÀúÁÖ¹ÞÀº´Á´ë">131</mob>
+      <mob name="ÀúÁÖ¹ÞÀº´Á´ë">131</mob>
+      <mob name="ÀúÁÖ¹ÞÀº´Á´ë">131</mob>
+    </group>
+    <group name="L31_ÀúÁÖ¹ÞÀºµÎ¸ñ´Á´ë" vnum="128">
+      <mob name="ÀúÁÖ¹ÞÀºµÎ¸ñ´Á´ë">132</mob>
+      <mob name="ÀúÁÖ¹ÞÀºµÎ¸ñ´Á´ë">132</mob>
+      <mob name="ÀúÁÖ¹ÞÀº´Á´ë">131</mob>
+      <mob name="ÀúÁÖ¹ÞÀº´Á´ë">131</mob>
+    </group>
+    <group name="L32_ÀúÁÖ¹ÞÀºÇª¸¥´Á´ë" vnum="129">
+      <mob name="ÀúÁÖ¹ÞÀºÇª¸¥´Á´ë">133</mob>
+      <mob name="ÀúÁÖ¹ÞÀºÇª¸¥´Á´ë">133</mob>
+      <mob name="ÀúÁÖ¹ÞÀºÇª¸¥´Á´ë">133</mob>
+    </group>
+    <group name="L34_ÀúÁÖ¹ÞÀºÇª¸¥µÎ¸ñ´Á´ë" vnum="130">
+      <mob name="ÀúÁÖ¹ÞÀºÇª¸¥µÎ¸ñ´Á´ë">134</mob>
+      <mob name="ÀúÁÖ¹ÞÀºÇª¸¥µÎ¸ñ´Á´ë">134</mob>
+      <mob name="ÀúÁÖ¹ÞÀºÇª¸¥´Á´ë">133</mob>
+      <mob name="ÀúÁÖ¹ÞÀºÇª¸¥´Á´ë">133</mob>
+    </group>
+    <group name="L36_ÀúÁÖ¹ÞÀºÈ¸»ö´Á´ë" vnum="131">
+      <mob name="ÀúÁÖ¹ÞÀº È¸»ö´Á´ë">135</mob>
+      <mob name="ÀúÁÖ¹ÞÀº È¸»ö´Á´ë">135</mob>
+      <mob name="ÀúÁÖ¹ÞÀº È¸»ö´Á´ë">135</mob>
+    </group>
+    <group name="L37_ÀúÁÖ¹ÞÀººÓÀº¸äµÅÁö" vnum="132">
+      <mob name="ÀúÁÖ¹ÞÀººÓÀº¸äµÅÁö">138</mob>
+      <mob name="ÀúÁÖ¹ÞÀººÓÀº¸äµÅÁö">138</mob>
+      <mob name="ÀúÁÖ¹ÞÀººÓÀº¸äµÅÁö">138</mob>
+    </group>
+    <group name="L21_ÀúÁÖ¹ÞÀº°õ" vnum="133">
+      <mob name="ÀúÁÖ¹ÞÀº°õ">139</mob>
+      <mob name="ÀúÁÖ¹ÞÀº°õ">139</mob>
+      <mob name="ÀúÁÖ¹ÞÀº°õ">139</mob>
+    </group>
+    <group name="L21_ÀúÁÖ¹ÞÀºÈ¸»ö°õ" vnum="134">
+      <mob name="ÀúÁÖ¹ÞÀºÈ¸»ö°õ">140</mob>
+      <mob name="ÀúÁÖ¹ÞÀºÈ¸»ö°õ">140</mob>
+      <mob name="ÀúÁÖ¹ÞÀºÈ¸»ö°õ">140</mob>
+      <mob name="ÀúÁÖ¹ÞÀº°õ">139</mob>
+      <mob name="ÀúÁÖ¹ÞÀº°õ">139</mob>
+    </group>
+    <group name="L21_ÀúÁÖ¹ÞÀº°ËÀº°õ" vnum="135">
+      <mob name="ÀúÁÖ¹ÞÀº°ËÀº°õ">141</mob>
+      <mob name="ÀúÁÖ¹ÞÀº°ËÀº°õ">141</mob>
+      <mob name="ÀúÁÖ¹ÞÀº°ËÀº°õ">141</mob>
+    </group>
+    <group name="L21_ÀúÁÖ¹ÞÀºÈ£¶ûÀÌ" vnum="136">
+      <mob name="ÀúÁÖ¹ÞÀºÈ£¶ûÀÌ">143</mob>
+      <mob name="ÀúÁÖ¹ÞÀºÈ£¶ûÀÌ">143</mob>
+      <mob name="ÀúÁÖ¹ÞÀºÈ£¶ûÀÌ">143</mob>
+      <mob name="ÀúÁÖ¹ÞÀº°ËÀº°õ">141</mob>
+      <mob name="ÀúÁÖ¹ÞÀº°ËÀº°õ">141</mob>
+    </group>
+    <group name="L29_ÀúÁÖ¹ÞÀº_´ëÈ£(S_KNIGHT)-ÀúÁÖ¹ÞÀº_È£¶ûÀÌ(KNIGHT)" vnum="137">
+      <mob name="ÀúÁÖ¹ÞÀº_´ëÈ£">144</mob>
+      <mob name="ÀúÁÖ¹ÞÀº_È£¶ûÀÌ">143</mob>
+      <mob name="ÀúÁÖ¹ÞÀº_È£¶ûÀÌ">143</mob>
+    </group>
+    <group name="L29_»ê°ß½Å(BOSS)-ÀúÁÖ¹ÞÀº_È¸»ö_µÎ¸ñ´Á´ë(S_KNIGHT)" vnum="139">
+      <mob name="»ê°ß½Å">191</mob>
+      <mob name="ÀúÁÖ¹ÞÀº_È¸»ö_µÎ¸ñ´Á´ë">136</mob>
+      <mob name="ÀúÁÖ¹ÞÀº_È¸»ö_µÎ¸ñ´Á´ë">136</mob>
+    </group>
+    <group name="L30_Àú½Å(BOSS)-ÀúÁÖ¹ÞÀº_ºÓÀº_¸äµÅÁö(S_KNIGHT)" vnum="140">
+      <mob name="Àú½Å">192</mob>
+      <mob name="ÀúÁÖ¹ÞÀº_ºÓÀº_¸äµÅÁö">138</mob>
+      <mob name="ÀúÁÖ¹ÞÀº_ºÓÀº_¸äµÅÁö">138</mob>
+    </group>
+    <group name="L32_¿õ½Å(BOSS)-ÀúÁÖ¹ÞÀº_ºÒ°õ(S_KNIGHT)" vnum="141">
+      <mob name="¿õ½Å">193</mob>
+      <mob name="ÀúÁÖ¹ÞÀº_ºÒ°õ">142</mob>
+      <mob name="ÀúÁÖ¹ÞÀº_ºÒ°õ">142</mob>
+    </group>
+    <group name="L34_È£½Å(BOSS)-ÀúÁÖ¹ÞÀº_´ëÈ£(S_KNIGHT)" vnum="142">
+      <mob name="È£½Å">194</mob>
+      <mob name="ÀúÁÖ¹ÞÀº_´ëÈ£">144</mob>
+      <mob name="ÀúÁÖ¹ÞÀº_´ëÈ£">144</mob>
+    </group>
+    <group name="L46_¹é°áÀå¼ö(S_PAWN)-¹é°á´Ü¿ø(S_PAWN)" vnum="305">
+      <mob name="¹é°á´Ü¿ø">301</mob>
+      <mob name="¹é°á´Ü¿ø">301</mob>
+      <mob name="¹é°á´Ü¿ø">301</mob>
+      <mob name="¹é°á´Ü¿ø">301</mob>
+    </group>
+    <group name="L00_¹é°áÀå¼ö(S_PAWN)-¹é°á±Ãº´(S_PAWN)" vnum="306">
+      <mob name="¹é°á±Ãº´">302</mob>
+      <mob name="¹é°á´Ü¿ø">301</mob>
+      <mob name="¹é°á´Ü¿ø">301</mob>
+      <mob name="¹é°á´Ü¿ø">301</mob>
+    </group>
+    <group name="L00_¹é°á±Ãº´(S_PAWN)-¹é°á±Ãº´(S_PAWN)" vnum="307">
+      <mob name="¹é°á±Ãº´">302</mob>
+      <mob name="¹é°á±Ãº´">302</mob>
+      <mob name="¹é°á´Ü¿ø">301</mob>
+      <mob name="¹é°á´Ü¿ø">301</mob>
+    </group>
+    <group name="L00_¹é°á±Ãº´(S_PAWN)-¹é°á±Ãº´(S_PAWN)" vnum="308">
+      <mob name="¹é°á±Ãº´">302</mob>
+      <mob name="¹é°á±Ãº´">302</mob>
+      <mob name="¹é°á±Ãº´">302</mob>
+    </group>
+    <group name="L50_¹é°áÀå¼ö(KNIGHT)-¹é°á´Ü¿ø(PAWN)" vnum="309">
+      <mob name="¹é°áÀå¼öÀÌ·É">304</mob>
+      <mob name="¹é°á´Ü¿ø">301</mob>
+      <mob name="¹é°á´Ü¿ø">301</mob>
+      <mob name="¹é°á´Ü¿ø">301</mob>
+    </group>
+    <group name="L50_¹é°áÀå¼ö(KNIGHT)-¹é°á´Ü¿ø(PAWN)" vnum="310">
+      <mob name="¹é°áÀå¼öÀÌ·É">304</mob>
+      <mob name="¹é°á±Ãº´">302</mob>
+      <mob name="¹é°á±Ãº´">302</mob>
+      <mob name="¹é°á´Ü¿ø">301</mob>
+    </group>
+    <group name="L50_¼ö¼®_¹é°áÀå¼ö(S_KNIGHT)-¹é°á´Ü¿ø(S_KNIGHT)" vnum="313">
+      <mob name="¹é°áÀå¼öÀÌ·É">304</mob>
+      <mob name="¹é°áÀå¼öÀÏ·É">303</mob>
+      <mob name="¹é°á±Ãº´">302</mob>
+      <mob name="¹é°á´Ü¿ø">301</mob>
+    </group>
+    <group name="L52_¹ÌÁ¤(S_KNIGHT)-¼ö¼®_¹é°áÀå¼ö(S_KNIGHT)" vnum="315">
+      <mob name="¹ÌÁ¤">391</mob>
+      <mob name="¹é°áÀå¼öÀÌ·É">304</mob>
+      <mob name="¹é°áÀå¼öÀÏ·É">303</mob>
+      <mob name="¹é°á±Ãº´">302</mob>
+    </group>
+    <group name="L54_ÀºÁ¤(S_KNIGHT)-¼ö¼®_¹é°áÀå¼ö(S_KNIGHT)" vnum="316">
+      <mob name="ÀºÁ¤">392</mob>
+      <mob name="¹é°áÀå¼öÀÌ·É">304</mob>
+      <mob name="¹é°áÀå¼öÀÏ·É">303</mob>
+      <mob name="¹é°á±Ãº´">302</mob>
+    </group>
+    <group name="L29_¼¼¶û(S_KNIGHT)-¼ö¼®_¹é°áÀå¼ö(S_KNIGHT)" vnum="317">
+      <mob name="¼¼¶û">393</mob>
+      <mob name="¹é°áÀå¼öÀÌ·É">304</mob>
+      <mob name="¹é°áÀå¼öÀÏ·É">303</mob>
+      <mob name="¹é°á±Ãº´">302</mob>
+    </group>
+    <group name="L31_ÁøÈñ(BOSS)-¼ö¼®_Àû¹ÌÀå¼ö(S_KNIGHT)" vnum="318">
+      <mob name="ÁøÈñ">394</mob>
+      <mob name="¹é°áÀå¼öÀÌ·É">304</mob>
+      <mob name="¹é°áÀå¼öÀÏ·É">303</mob>
+      <mob name="¹é°á±Ãº´">302</mob>
+      <mob name="¹é°á±Ãº´">302</mob>
+    </group>
+    <group name="L20_ÈæÇ³´Ü¿ø(PAWN)-¿À¶ûÄÉº¸º´(PAWN)" vnum="401">
+      <mob name="ÈæÇ³´Ü¿ø">401</mob>
+      <mob name="ÈæÇ³´Ü¿ø">401</mob>
+      <mob name="¿À¶ûÄÉº¸º´">501</mob>
+      <mob name="¿À¶ûÄÉº¸º´">501</mob>
+    </group>
+    <group name="L20_ÈæÇ³µ¹°Ý´ë(PAWN)-ÈæÇ³µ¹°Ý´ë(PAWN)" vnum="402">
+      <mob name="ÈæÇ³µ¹°Ý´ë">402</mob>
+      <mob name="ÈæÇ³´Ü¿ø">402</mob>
+      <mob name="ÈæÇ³´Ü¿ø">401</mob>
+      <mob name="¿À¶ûÄÉº¸º´">501</mob>
+    </group>
+    <group name="L20_ÈæÇ³µ¹°Ý´ë(PAWN)-ÈæÇ³µ¹°Ý´ë(PAWN)" vnum="403">
+      <mob name="ÈæÇ³µ¹°Ý´ë">402</mob>
+      <mob name="¿À¶ûÄÉÁ¹°³">502</mob>
+      <mob name="ÈæÇ³´Ü¿ø.">401</mob>
+      <mob name="ÈæÇ³´Ü¿ø">401</mob>
+    </group>
+    <group name="L25_ÈæÇ³±Ã¼ö(PAWN)-ÈæÇ³µ¹°Ý´ë(PAWN)" vnum="404">
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+      <mob name="ÈæÇ³µ¹°Ý´ë">402</mob>
+      <mob name="ÈæÇ³µ¹°Ý´ë">402</mob>
+      <mob name="¿À¶ûÄÉÁ¹°³">502</mob>
+    </group>
+    <group name="L25_ÈæÇ³±Ã¼ö(PAWN)-ÈæÇ³±Ã¼ö(PAWN)" vnum="405">
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+      <mob name="¿À¶ûÄÉ±Ã¼ö">502</mob>
+      <mob name="ÈæÇ³µ¹°Ý´ë">402</mob>
+    </group>
+    <group name="L25_ÈæÇ³Àå¼ö_»ï·É(S_PAWN)-ÈæÇ³±Ã¼ö(PAWN)" vnum="406">
+      <mob name="ÈæÇ³Àå¼ö_»ï·É">404</mob>
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+      <mob name="ÈæÇ³µ¹°Ý´ë">402</mob>
+      <mob name="ÈæÇ³µ¹°Ý´ë">402</mob>
+    </group>
+    <group name="L25_ÈæÇ³Àå¼ö_»ï·É(S_PAWN)-ÈæÇ³±Ã¼ö(PAWN)" vnum="407">
+      <mob name="ÈæÇ³Àå¼ö_»ï·É">404</mob>
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+      <mob name="ÈæÇ³µ¹°Ý´ë">402</mob>
+    </group>
+    <group name="L23_ÈæÇ³Àå¼ö_ÀÌ·É(S_PAWN)-ÈæÇ³Àå¼ö_»ï·É(S_PAWN)" vnum="408">
+      <mob name="ÈæÇ³Àå¼ö_ÀÌ·É">405</mob>
+      <mob name="ÈæÇ³Àå¼ö_»ï·É">404</mob>
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+      <mob name="ÈæÇ³µ¹°Ý´ë">402</mob>
+    </group>
+    <group name="L23_ÈæÇ³Àå¼ö_ÀÌ·É(S_PAWN)-ÈæÇ³Àå¼ö_»ï·É(S_PAWN)" vnum="409">
+      <mob name="ÈæÇ³Àå¼ö_ÀÌ·É">405</mob>
+      <mob name="ÈæÇ³Àå¼ö_»ï·É">404</mob>
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+    </group>
+    <group name="L25_ÈæÇ³Àå¼ö_ÀÏ·É(S_PAWN)-ÈæÇ³Àå¼ö_ÀÌ·É(S_PAWN)" vnum="410">
+      <mob name="ÈæÇ³Àå¼ö_ÀÏ·É">406</mob>
+      <mob name="ÈæÇ³Àå¼ö_ÀÌ·É">405</mob>
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+      <mob name="ÈæÇ³µ¹°Ý´ë">402</mob>
+    </group>
+    <group name="L25_ÈæÇ³Àå¼ö_ÀÏ·É(S_PAWN)-ÈæÇ³Àå¼ö_ÀÌ·É(S_PAWN)" vnum="411">
+      <mob name="ÈæÇ³Àå¼ö_ÀÏ·É">406</mob>
+      <mob name="ÈæÇ³Àå¼ö_ÀÌ·É">405</mob>
+      <mob name="ÈæÇ³Àå¼ö_»ï·É">404</mob>
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+    </group>
+    <group name="L30_»ìÇ³µ¹°Ý´ë(KNIGHT)-»ìÇ³´Ü¿ø(KNIGHT)" vnum="412">
+      <mob name="»ìÇ³µ¹°Ý´ë">432</mob>
+      <mob name="»ìÇ³´Ü¿ø">431</mob>
+      <mob name="»ìÇ³´Ü¿ø">431</mob>
+      <mob name="»ìÇ³´Ü¿ø">431</mob>
+    </group>
+    <group name="L30_»ìÇ³µ¹°Ý´ë(KNIGHT)-»ìÇ³µ¹°Ý´ë(KNIGHT)" vnum="413">
+      <mob name="»ìÇ³µ¹°Ý´ë">432</mob>
+      <mob name="»ìÇ³µ¹°Ý´ë">432</mob>
+      <mob name="»ìÇ³´Ü¿ø">431</mob>
+      <mob name="»ìÇ³´Ü¿ø">431</mob>
+    </group>
+    <group name="L30_»ìÇ³µ¹°Ý´ë(KNIGHT)-»ìÇ³µ¹°Ý´ë(KNIGHT)" vnum="414">
+      <mob name="»ìÇ³µ¹°Ý´ë">432</mob>
+      <mob name="»ìÇ³µ¹°Ý´ë">432</mob>
+      <mob name="»ìÇ³µ¹°Ý´ë">432</mob>
+      <mob name="»ìÇ³´Ü¿ø">431</mob>
+    </group>
+    <group name="L23_»ìÇ³±Ã¼ö(KNIGHT)-»ìÇ³µ¹°Ý´ë(KNIGHT)" vnum="415">
+      <mob name="»ìÇ³±Ã¼ö">433</mob>
+      <mob name="»ìÇ³µ¹°Ý´ë">432</mob>
+      <mob name="»ìÇ³µ¹°Ý´ë">432</mob>
+      <mob name="»ìÇ³µ¹°Ý´ë">432</mob>
+    </group>
+    <group name="L23_»ìÇ³±Ã¼ö(KNIGHT)-»ìÇ³±Ã¼ö(KNIGHT)" vnum="416">
+      <mob name="»ìÇ³±Ã¼ö">433</mob>
+      <mob name="»ìÇ³±Ã¼ö">433</mob>
+      <mob name="»ìÇ³µ¹°Ý´ë">432</mob>
+      <mob name="»ìÇ³µ¹°Ý´ë">432</mob>
+    </group>
+    <group name="L26_»ìÇ³Àå¼ö_»ï·É(S_KNIGHT)-»ìÇ³±Ã¼ö(KNIGHT)" vnum="417">
+      <mob name="»ìÇ³Àå¼ö_»ï·É">434</mob>
+      <mob name="»ìÇ³±Ã¼ö">433</mob>
+      <mob name="»ìÇ³µ¹°Ý´ë">432</mob>
+      <mob name="»ìÇ³µ¹°Ý´ë">432</mob>
+    </group>
+    <group name="L26_»ìÇ³Àå¼ö_»ï·É(S_KNIGHT)-»ìÇ³±Ã¼ö(KNIGHT)" vnum="418">
+      <mob name="»ìÇ³Àå¼ö_»ï·É">434</mob>
+      <mob name="»ìÇ³±Ã¼ö">433</mob>
+      <mob name="»ìÇ³±Ã¼ö">433</mob>
+      <mob name="»ìÇ³µ¹°Ý´ë">432</mob>
+    </group>
+    <group name="L28_»ìÇ³Àå¼ö_ÀÌ·É(S_KNIGHT)-»ìÇ³Àå¼ö_»ï·É(S_KNIGHT)" vnum="419">
+      <mob name="»ìÇ³Àå¼ö_ÀÌ·É">435</mob>
+      <mob name="»ìÇ³Àå¼ö_»ï·É">434</mob>
+      <mob name="»ìÇ³±Ã¼ö">433</mob>
+      <mob name="»ìÇ³µ¹°Ý´ë">432</mob>
+    </group>
+    <group name="L28_»ìÇ³Àå¼ö_ÀÌ·É(S_KNIGHT)-»ìÇ³Àå¼ö_»ï·É(S_KNIGHT)" vnum="420">
+      <mob name="»ìÇ³Àå¼ö_ÀÌ·É">435</mob>
+      <mob name="»ìÇ³Àå¼ö_»ï·É">434</mob>
+      <mob name="»ìÇ³±Ã¼ö">433</mob>
+      <mob name="»ìÇ³±Ã¼ö">433</mob>
+    </group>
+    <group name="L31_»ìÇ³Àå¼ö_ÀÏ·É(S_KNIGHT)-»ìÇ³Àå¼ö_ÀÌ·É(S_KNIGHT)" vnum="421">
+      <mob name="»ìÇ³Àå¼ö_ÀÏ·É">436</mob>
+      <mob name="»ìÇ³Àå¼ö_ÀÌ·É">435</mob>
+      <mob name="»ìÇ³±Ã¼ö">433</mob>
+      <mob name="»ìÇ³±Ã¼ö">433</mob>
+    </group>
+    <group name="L31_»ìÇ³Àå¼ö_ÀÏ·É(S_KNIGHT)-»ìÇ³Àå¼ö_ÀÌ·É(S_KNIGHT)" vnum="422">
+      <mob name="»ìÇ³Àå¼ö_ÀÏ·É">436</mob>
+      <mob name="»ìÇ³Àå¼ö_ÀÌ·É">435</mob>
+      <mob name="»ìÇ³Àå¼ö_»ï·É">434</mob>
+      <mob name="»ìÇ³±Ã¼ö">433</mob>
+    </group>
+    <group name="L26_¸ÍÈ¯(BOSS)-»ìÇ³Àå¼ö_ÀÏ·É(S_KNIGHT)" vnum="423">
+      <mob name="¸ÍÈ¯">491</mob>
+      <mob name="ÈæÇ³Àå¼ö_ÀÏ·É">406</mob>
+      <mob name="ÈæÇ³Àå¼ö_ÀÏ·É">406</mob>
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+    </group>
+    <group name="L27_º¸¿ì(BOSS)-»ìÇ³Àå¼ö_ÀÏ·É(S_KNIGHT)" vnum="424">
+      <mob name="º¸¿ì">492</mob>
+      <mob name="ÈæÇ³Àå¼ö_ÀÏ·É">406</mob>
+      <mob name="ÈæÇ³Àå¼ö_ÀÏ·É">406</mob>
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+    </group>
+    <group name="L29_±¸ÆÐ(BOSS)-»ìÇ³Àå¼ö_ÀÏ·É(S_KNIGHT)" vnum="425">
+      <mob name="±¸ÆÐ">493</mob>
+      <mob name="ÈæÇ³Àå¼ö_ÀÏ·É">406</mob>
+      <mob name="ÈæÇ³Àå¼ö_ÀÏ·É">406</mob>
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+    </group>
+    <group name="L30_ÃßÈç(KING)-»ìÇ³Àå¼ö_ÀÏ·É(S_KNIGHT)" vnum="426">
+      <mob name="ÃßÈç">494</mob>
+      <mob name="ÈæÇ³Àå¼ö_ÀÏ·É">406</mob>
+      <mob name="ÈæÇ³Àå¼ö_ÀÌ·É">405</mob>
+      <mob name="ÈæÇ³Àå¼ö_»ï·É">404</mob>
+      <mob name="ÈæÇ³±Ã¼ö">403</mob>
+    </group>
+    <group name="L34_¿À¶ûÄ³Á¹°³(PAWN)-¿À¶ûÄ³º¸º´(PAWN)" vnum="501">
+      <mob name="¿À¶ûÄ³º¸º´">501</mob>
+      <mob name="¿À¶ûÄ³º¸º´">501</mob>
+      <mob name="ÈæÇ³´Ü¿ø">401</mob>
+      <mob name="ÈæÇ³´Ü¿ø">401</mob>
+    </group>
+    <group name="L34_¿À¶ûÄ³Á¹°³(PAWN)-¿À¶ûÄ³Á¹°³(PAWN)" vnum="502">
+      <mob name="¿À¶ûÄ³Á¹°³">502</mob>
+      <mob name="¿À¶ûÄ³Á¹°³">502</mob>
+      <mob name="¿À¶ûÄ³º¸º´">501</mob>
+      <mob name="ÈæÇ³´Ü¿ø">401</mob>
+    </group>
+    <group name="L34_¿À¶ûÄ³Á¹°³(PAWN)-¿À¶ûÄ³Á¹°³(PAWN)" vnum="503">
+      <mob name="¿À¶ûÄ³Á¹°³">502</mob>
+      <mob name="¿À¶ûÄ³º¸º´">501</mob>
+      <mob name="¿À¶ûÄ³º¸º´">501</mob>
+      <mob name="¿À¶ûÄ³º¸º´">501</mob>
+    </group>
+    <group name="L31_¿À¶ûÄ³±Ã¼ö(S_PAWN)-¿À¶ûÄ³Á¹°³(PAWN)" vnum="504">
+      <mob name="¿À¶ûÄ³Á¹°³">502</mob>
+      <mob name="¿À¶ûÄ³Á¹°³">502</mob>
+      <mob name="¿À¶ûÄ³Á¹°³">502</mob>
+      <mob name="¿À¶ûÄÉº¸º´">501</mob>
+    </group>
+    <group name="L31_¿À¶ûÄ³±Ã¼ö(S_PAWN)-¿À¶ûÄ³±Ã¼ö(S_PAWN)" vnum="505">
+      <mob name="¿À¶ûÄ³±Ã¼ö">503</mob>
+      <mob name="¿À¶ûÄ³Á¹°³">502</mob>
+      <mob name="¿À¶ûÄ³Á¹°³">502</mob>
+      <mob name="¿À¶ûÄ³Á¹°³">502</mob>
+    </group>
+    <group name="L32_¿À¶ûÄ³Àå¼ö(S_PAWN)-¿À¶ûÄ³±Ã¼ö(S_PAWN)" vnum="506">
+      <mob name="¿À¶ûÄ³Àå¼ö">504</mob>
+      <mob name="¿À¶ûÄ³±Ã¼ö">503</mob>
+      <mob name="¿À¶ûÄ³Á¹°³">502</mob>
+      <mob name="¿À¶ûÄ³Á¹°³">502</mob>
+    </group>
+    <group name="L32_¿À¶ûÄ³Àå¼ö(S_PAWN)-¿À¶ûÄ³±Ã¼ö(S_PAWN)" vnum="507">
+      <mob name="¿À¶ûÄ³Àå¼ö">504</mob>
+      <mob name="¿À¶ûÄ³±Ã¼ö">503</mob>
+      <mob name="¿À¶ûÄ³Á¹°³">502</mob>
+      <mob name="¿À¶ûÄ³Á¹°³">502</mob>
+    </group>
+    <group name="L35_ºñ·ù´Üµ¹°Ý´ë(KNIGHT)-ºñ·ù´Ü¿ø(KNIGHT)" vnum="508">
+      <mob name="ºñ·ù´Üµ¹°Ý´ë">532</mob>
+      <mob name="ºñ·ù´Ü¿ø">531</mob>
+      <mob name="ºñ·ù´Ü¿ø">531</mob>
+      <mob name="ºñ·ù´Ü¿ø">531</mob>
+    </group>
+    <group name="L35_ºñ·ù´Üµ¹°Ý´ë(KNIGHT)-ºñ·ù´Üµ¹°Ý´ë(KNIGHT)" vnum="509">
+      <mob name="ºñ·ù´Üµ¹°Ý´ë">532</mob>
+      <mob name="ºñ·ù´Üµ¹°Ý´ë">532</mob>
+      <mob name="ºñ·ù´Ü¿ø">531</mob>
+      <mob name="ºñ·ù´Ü¿ø">531</mob>
+    </group>
+    <group name="L35_ºñ·ù´Üµ¹°Ý´ë(KNIGHT)-ºñ·ù´Üµ¹°Ý´ë(KNIGHT)" vnum="510">
+      <mob name="ºñ·ù´Üµ¹°Ý´ë">532</mob>
+      <mob name="ºñ·ù´Üµ¹°Ý´ë">532</mob>
+      <mob name="ºñ·ù´Üµ¹°Ý´ë">532</mob>
+      <mob name="ºñ·ù´Ü¿ø">531</mob>
+    </group>
+    <group name="L37_ºñ·ù´Ü±Ã¼ö(S_KNIGHT)-ºñ·ù´Üµ¹°Ý´ë(KNIGHT)" vnum="511">
+      <mob name="ºñ·ù´Ü±Ã¼ö">533</mob>
+      <mob name="ºñ·ù´Üµ¹°Ý´ë">532</mob>
+      <mob name="ºñ·ù´Ü¿ø">531</mob>
+      <mob name="ºñ·ù´Ü¿ø">531</mob>
+    </group>
+    <group name="L37_ºñ·ù´Ü±Ã¼ö(S_KNIGHT)-ºñ·ù´Ü±Ã¼ö(S_KNIGHT)" vnum="512">
+      <mob name="ºñ·ù´Ü±Ã¼ö">533</mob>
+      <mob name="ºñ·ù´Ü±Ã¼ö">533</mob>
+      <mob name="ºñ·ù´Üµ¹°Ý´ë">532</mob>
+      <mob name="ºñ·ù´Üµ¹°Ý´ë">532</mob>
+    </group>
+    <group name="L39_ºñ·ù´ÜÀå(S_KNIGHT)-ºñ·ù´Ü±Ã¼ö(S_KNIGHT)" vnum="513">
+      <mob name="ºñ·ù´ÜÀå">534</mob>
+      <mob name="ºñ·ù´Ü±Ã¼ö">533</mob>
+      <mob name="ºñ·ù´Üµ¹°Ý´ë">532</mob>
+      <mob name="ºñ·ù´Üµ¹°Ý´ë">532</mob>
+    </group>
+    <group name="L39_ºñ·ù´ÜÀå(S_KNIGHT)-ºñ·ù´Ü±Ã¼ö(S_KNIGHT)" vnum="514">
+      <mob name="ºñ·ù´ÜÀå">534</mob>
+      <mob name="ºñ·ù´Ü±Ã¼ö">533</mob>
+      <mob name="ºñ·ù´Ü±Ã¼ö">533</mob>
+      <mob name="ºñ·ù´Üµ¹°Ý´ë">532</mob>
+    </group>
+    <group name="L31_ºñ·ù´Ü´ëÀå(BOSS)-ºñ·ù´ÜÀå(S_KNIGHT)" vnum="515">
+      <mob name="ºñ·ù´Ü´ëÀå">591</mob>
+      <mob name="¿À¶ûÄÉÀå¼ö">504</mob>
+      <mob name="¿À¶ûÄÉÀå¼ö">504</mob>
+      <mob name="¿À¶ûÄÉ±Ã¼ö">503</mob>
+      <mob name="¿À¶ûÄÉ±Ã¼ö">503</mob>
+    </group>
+    <group name="L38_Áø¿õ±Í_Ã´ÈÄº´(PAWN)-Áø¿õ±Íº´(PAWN)" vnum="601">
+      <mob name="Áø¿õ±Íº´">631</mob>
+      <mob name="Áø¿õ±Íº´">631</mob>
+      <mob name="´ë¿ÕÀü°¥">2103</mob>
+      <mob name="´ë¿ÕÀü°¥">2103</mob>
+    </group>
+    <group name="L38_Áø¿õ±Íº´(PAWN)-Áø¿õ±Íº´(PAWN)" vnum="602">
+      <mob name="Áø¿õ±Íº´">631</mob>
+      <mob name="Áø¿õ±Íº´">631</mob>
+      <mob name="Áø¿õ±Íº´">631</mob>
+      <mob name="´ë¿ÕÀü°¥">2103</mob>
+    </group>
+    <group name="L44_Áø¿õ±Í_Åõº´(S_PAWN)-Áø¿õ±Í_Ã´ÈÄº´(PAWN)" vnum="603">
+      <mob name="Áø¿õ±Í_Åõº´">633</mob>
+      <mob name="Áø¿õ±Í_Ã´ÈÄº´">632</mob>
+      <mob name="Áø¿õ±Í_Ã´ÈÄº´">632</mob>
+      <mob name="Áø¿õ±Í_Ã´ÈÄº´">632</mob>
+    </group>
+    <group name="L44_Áø¿õ±Í_Åõº´(S_PAWN)-Áø¿õ±Í_Åõº´(S_PAWN)" vnum="604">
+      <mob name="Áø¿õ±Í_Åõº´">633</mob>
+      <mob name="Áø¿õ±Í_Åõº´">633</mob>
+      <mob name="Áø¿õ±Í_Ã´ÈÄº´">632</mob>
+      <mob name="Áø¿õ±Í_Ã´ÈÄº´">632</mob>
+    </group>
+    <group name="L34_Áø¿õ±Í_Ã´ÈÄº´(KNIGHT)-Áø¿õ±Íº´(KNIGHT)" vnum="605">
+      <mob name="Áø¿õ±Í_Ã´ÈÄº´">632</mob>
+      <mob name="Áø¿õ±Íº´">631</mob>
+      <mob name="Áø¿õ±Íº´">631</mob>
+      <mob name="Áø¿õ±Íº´">631</mob>
+    </group>
+    <group name="L34_Áø¿õ±Í_Ã´ÈÄº´(KNIGHT)-Áø¿õ±Í_Ã´ÈÄº´(KNIGHT)" vnum="606">
+      <mob name="Áø¿õ±Í_Ã´ÈÄº´">632</mob>
+      <mob name="Áø¿õ±Í_Ã´ÈÄº´">632</mob>
+      <mob name="Áø¿õ±Íº´">631</mob>
+      <mob name="Áø¿õ±Íº´">631</mob>
+    </group>
+    <group name="L35_Áø¿õ±Í_Åõº´(KNIGHT)-Áø¿õ±Í_Ã´ÈÄº´(KNIGHT)" vnum="607">
+      <mob name="Áø¿õ±Í_Åõº´">633</mob>
+      <mob name="Áø¿õ±Í_Ã´ÈÄº´">632</mob>
+      <mob name="Áø¿õ±Íº´">631</mob>
+      <mob name="Áø¿õ±Íº´">631</mob>
+    </group>
+    <group name="L35_Áø¿õ±Í_Åõº´(KNIGHT)-Áø¿õ±Í_Ã´ÈÄº´(KNIGHT)" vnum="608">
+      <mob name="Áø¿õ±Í_Åõº´">633</mob>
+      <mob name="Áø¿õ±Í_Ã´ÈÄº´">632</mob>
+      <mob name="Áø¿õ±Í_Ã´ÈÄº´">632</mob>
+      <mob name="Áø¿õ±Íº´">631</mob>
+    </group>
+    <group name="L34_Áø¿õ±Í_¸¶º´(KNIGHT)-Áø¿õ±Í_Åõº´(KNIGHT)" vnum="609">
+      <mob name="Áø¿õ±Í_¸¶º´">634</mob>
+      <mob name="Áø¿õ±Í_Åõº´">633</mob>
+      <mob name="Áø¿õ±Í_Åõº´">633</mob>
+      <mob name="Áø¿õ±Í_Ã´ÈÄº´">632</mob>
+    </group>
+    <group name="L29_Áø¿õ±Í_¸¶º´(S_PAWN)-Áø¿õ±Í_Åõº´(S_PAWN)" vnum="610">
+      <mob name="Áø¿õ±Í_¸¶º´">634</mob>
+      <mob name="Áø¿õ±Í_Åõº´">633</mob>
+      <mob name="Áø¿õ±Í_Åõº´">633</mob>
+      <mob name="Áø¿õ±Í_Åõº´">633</mob>
+    </group>
+    <group name="L29_Áø¿õ±Í_¸¶º´(S_PAWN)-Áø¿õ±Í_¸¶º´(S_PAWN)" vnum="611">
+      <mob name="Áø¿õ±Í_¸¶º´">634</mob>
+      <mob name="Áø¿õ±Í_¸¶º´">634</mob>
+      <mob name="Áø¿õ±Í_Åõº´">633</mob>
+      <mob name="Áø¿õ±Í_Åõº´">633</mob>
+    </group>
+    <group name="L36_Áø¿õ±Í_Àå±º(S_KNIGHT)-Áø¿õ±Í_¸¶º´(KNIGHT)" vnum="612">
+      <mob name="Áø¿õ±Í_Àå±º">635</mob>
+      <mob name="Áø¿õ±Í_¸¶º´">634</mob>
+      <mob name="Áø¿õ±Í_Ã´ÈÄº´">632</mob>
+      <mob name="Áø¿õ±Í_Ã´ÈÄº´">632</mob>
+    </group>
+    <group name="L36_Áø¿õ±Í_Àå±º(S_KNIGHT)-Áø¿õ±Í_¸¶º´(KNIGHT)" vnum="613">
+      <mob name="Áø¿õ±Í_Àå±º">635</mob>
+      <mob name="Áø¿õ±Í_¸¶º´">634</mob>
+      <mob name="Áø¿õ±Í_¸¶º´">634</mob>
+      <mob name="Áø¿õ±Í_Åõº´">633</mob>
+    </group>
+    <group name="L39_Èæ¿õ±Í(S_KNIGHT)-ÁøÁø¿õ±Í_Àå±º(S_KNIGHT)" vnum="614">
+      <mob name="Èæ¿õ±Í">636</mob>
+      <mob name="Áø¿õ±Í_Àå±º">635</mob>
+      <mob name="Áø¿õ±Í_Ã´ÈÄº´">632</mob>
+      <mob name="Áø¿õ±Í_Ã´ÈÄº´">632</mob>
+    </group>
+    <group name="L39_Èæ¿õ±Í(S_KNIGHT)-ÁøÁø¿õ±Í_Àå±º(S_KNIGHT)" vnum="615">
+      <mob name="Èæ¿õ±Í">636</mob>
+      <mob name="Áø¿õ±Í_Àå±º">635</mob>
+      <mob name="Áø¿õ±Í_¸¶º´">634</mob>
+      <mob name="Áø¿õ±Í_Åõº´">633</mob>
+    </group>
+    <group name="L41_°Å´ë_Èæ¿õ±Í(S_KNIGHT)-Èæ¿õ±Í(S_KNIGHT)" vnum="616">
+      <mob name="°Å´ë_Èæ¿õ±Í">637</mob>
+      <mob name="Èæ¿õ±Í">636</mob>
+      <mob name="Áø¿õ±Í_¸¶º´">634</mob>
+    </group>
+    <group name="L41_°Å´ë_Èæ¿õ±Í(S_KNIGHT)-°Å´ë_Èæ¿õ±Í(S_KNIGHT)" vnum="617">
+      <mob name="°Å´ë_Èæ¿õ±Í">637</mob>
+      <mob name="Èæ¿õ±Í">636</mob>
+      <mob name="Èæ¿õ±Í">636</mob>
+    </group>
+    <group name="L41_¿õ±Í_Á·Àå(BOSS)-°Å´ë_Èæ¿õ±Í(S_KNIGHT)" vnum="621">
+      <mob name="¿õ±Í_Á·Àå">691</mob>
+      <mob name="°Å´ë_Èæ¿õ±Í">637</mob>
+      <mob name="Áø¿õ±Í_Àå±º">635</mob>
+      <mob name="Èæ¿õ±Í">636</mob>
+      <mob name="ÁøÁø¿õ±Í_¸¶º´">634</mob>
+    </group>
+    <group name="L44_¹Ð±³³ªÇÑº´(PAWN)-¹Ð±³ÃßÁ¾ÀÚ(PAWN)" vnum="701">
+      <mob name="¹Ð±³³ªÇÑº´">702</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">701</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">701</mob>
+    </group>
+    <group name="L44_¹Ð±³³ªÇÑº´(PAWN)-¹Ð±³³ªÇÑº´(PAWN)" vnum="702">
+      <mob name="¹Ð±³³ªÇÑº´">702</mob>
+      <mob name="¹Ð±³³ªÇÑº´">702</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">701</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">701</mob>
+    </group>
+    <group name="L44_¹Ð±³³ªÇÑº´(PAWN)-¹Ð±³³ªÇÑº´(PAWN)" vnum="703">
+      <mob name="¹Ð±³³ªÇÑº´">702</mob>
+      <mob name="¹Ð±³³ªÇÑº´">702</mob>
+      <mob name="¹Ð±³³ªÇÑº´">702</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">701</mob>
+    </group>
+    <group name="L45_¹Ð±³³ªÇÑÅõº´(PAWN)-¹Ð±³³ªÇÑº´(PAWN)" vnum="704">
+      <mob name="¹Ð±³³ªÇÑÅõº´">703</mob>
+      <mob name="¹Ð±³³ªÇÑº´">702</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">701</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">701</mob>
+    </group>
+    <group name="L45_¹Ð±³³ªÇÑÅõº´(PAWN)-¹Ð±³³ªÇÑº´(PAWN)" vnum="705">
+      <mob name="¹Ð±³³ªÇÑÅõº´">703</mob>
+      <mob name="¹Ð±³³ªÇÑº´">702</mob>
+      <mob name="¹Ð±³³ªÇÑº´">702</mob>
+      <mob name="¹Ð±³³ªÇÑº´">702</mob>
+    </group>
+    <group name="L46_¹Ð±³³ªÇÑÀå(S_PAWN)-¹Ð±³³ªÇÑÅõº´(PAWN)" vnum="706">
+      <mob name="¹Ð±³³ªÇÑÀå">704</mob>
+      <mob name="¹Ð±³³ªÇÑÅõº´">703</mob>
+      <mob name="¹Ð±³³ªÇÑº´">702</mob>
+      <mob name="¹Ð±³³ªÇÑº´">702</mob>
+    </group>
+    <group name="L46_¹Ð±³³ªÇÑÀå(S_PAWN)-¹Ð±³³ªÇÑÅõº´(PAWN)" vnum="707">
+      <mob name="¹Ð±³³ªÇÑÀå">704</mob>
+      <mob name="¹Ð±³³ªÇÑÅõº´">703</mob>
+      <mob name="¹Ð±³³ªÇÑÅõº´">703</mob>
+      <mob name="¹Ð±³³ªÇÑº´">702</mob>
+    </group>
+    <group name="L31_¹Ð±³ÁýÇàº´(S_PAWN)-¹Ð±³ÁýÇàº´(S_PAWN)" vnum="708">
+      <mob name="¹Ð±³ÁýÇàº´">705</mob>
+      <mob name="¹Ð±³³ªÇÑÀå">704</mob>
+      <mob name="¹Ð±³³ªÇÑÀå">704</mob>
+      <mob name="¹Ð±³³ªÇÑÀå">704</mob>
+    </group>
+    <group name="L31_¹Ð±³ÁýÇàº´(S_PAWN)-¹Ð±³ÁýÇàº´(S_PAWN)" vnum="709">
+      <mob name="¹Ð±³ÁýÇàº´">705</mob>
+      <mob name="¹Ð±³ÁýÇàº´">705</mob>
+      <mob name="¹Ð±³³ªÇÑÀå">704</mob>
+      <mob name="¹Ð±³³ªÇÑÀå">704</mob>
+    </group>
+    <group name="L33_¹Ð±³°­¹Ú·É(S_PAWN)-¹Ð±³ÁýÇàº´(S_PAWN)" vnum="710">
+      <mob name="¹Ð±³°­¹Ú·É">706</mob>
+      <mob name="¹Ð±³ÁýÇàº´">705</mob>
+      <mob name="¹Ð±³ÁýÇàº´">705</mob>
+      <mob name="¹Ð±³³ªÇÑÀå">704</mob>
+    </group>
+    <group name="L33_¹Ð±³°­¹Ú·É(S_PAWN)-¹Ð±³°­¹Ú·É(S_PAWN)" vnum="711">
+      <mob name="¹Ð±³°­¹Ú·É">706</mob>
+      <mob name="¹Ð±³°­¹Ú·É">706</mob>
+      <mob name="¹Ð±³ÁýÇàº´">705</mob>
+      <mob name="¹Ð±³³ªÇÑÀå">704</mob>
+    </group>
+    <group name="L36_¹Ð±³¼ÒÈ¯·É(S_PAWN)-¹Ð±³°­¹Ú·É(S_PAWN)" vnum="712">
+      <mob name="¹Ð±³¼ÒÈ¯·É">707</mob>
+      <mob name="¹Ð±³°­¹Ú·É">706</mob>
+      <mob name="¹Ð±³ÁýÇàº´">705</mob>
+      <mob name="¹Ð±³ÁýÇàº´">705</mob>
+    </group>
+    <group name="L36_¹Ð±³¼ÒÈ¯·É(S_PAWN)-¹Ð±³¼ÒÈ¯·É(S_PAWN)" vnum="713">
+      <mob name="¹Ð±³¼ÒÈ¯·É">707</mob>
+      <mob name="¹Ð±³¼ÒÈ¯·É">707</mob>
+      <mob name="¹Ð±³°­¹Ú·É">706</mob>
+      <mob name="¹Ð±³ÁýÇàº´">705</mob>
+    </group>
+    <group name="L40_¹Ð±³³ªÇÑº´(KNIGHT)-¹Ð±³ÃßÁ¾ÀÚ(KNIGHT)" vnum="714">
+      <mob name="¹Ð±³³ªÇÑº´">732</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">731</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">731</mob>
+    </group>
+    <group name="L40_¹Ð±³³ªÇÑº´(KNIGHT)-¹Ð±³³ªÇÑº´(KNIGHT)" vnum="715">
+      <mob name="¹Ð±³³ªÇÑº´">732</mob>
+      <mob name="¹Ð±³³ªÇÑº´">732</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">731</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">731</mob>
+    </group>
+    <group name="L40_¹Ð±³³ªÇÑº´(KNIGHT)-¹Ð±³³ªÇÑº´(KNIGHT)" vnum="716">
+      <mob name="¹Ð±³³ªÇÑº´">732</mob>
+      <mob name="¹Ð±³³ªÇÑº´">732</mob>
+      <mob name="¹Ð±³³ªÇÑº´">732</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">731</mob>
+    </group>
+    <group name="L43_¹Ð±³³ªÇÑÅõº´(KNIGHT)-¹Ð±³³ªÇÑº´(KNIGHT)" vnum="717">
+      <mob name="¹Ð±³³ªÇÑÅõº´">733</mob>
+      <mob name="¹Ð±³³ªÇÑº´">732</mob>
+      <mob name="¹Ð±³³ªÇÑº´">732</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">731</mob>
+    </group>
+    <group name="L43_¹Ð±³³ªÇÑÅõº´(KNIGHT)-¹Ð±³³ªÇÑÅõº´(KNIGHT)" vnum="718">
+      <mob name="¹Ð±³³ªÇÑÅõº´">733</mob>
+      <mob name="¹Ð±³³ªÇÑº´">732</mob>
+      <mob name="¹Ð±³³ªÇÑº´">732</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">731</mob>
+    </group>
+    <group name="L46_¹Ð±³³ªÇÑÀå(S_KNIGHT)-¹Ð±³³ªÇÑÅõº´(KNIGHT)" vnum="719">
+      <mob name="¹Ð±³³ªÇÑÀå">734</mob>
+      <mob name="¹Ð±³³ªÇÑÅõº´">733</mob>
+      <mob name="¹Ð±³³ªÇÑº´">732</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">731</mob>
+    </group>
+    <group name="L46_¹Ð±³³ªÇÑÀå(S_KNIGHT)-¹Ð±³³ªÇÑÀå(S_KNIGHT)" vnum="720">
+      <mob name="¹Ð±³³ªÇÑÀå">734</mob>
+      <mob name="¹Ð±³³ªÇÑÀå">734</mob>
+      <mob name="¹Ð±³³ªÇÑÅõº´">733</mob>
+      <mob name="¹Ð±³³ªÇÑº´">732</mob>
+    </group>
+    <group name="L49_¹Ð±³ÁýÇàº´(S_KNIGHT)-¹Ð±³³ªÇÑÀå(S_KNIGHT)" vnum="721">
+      <mob name="¹Ð±³ÁýÇàº´">735</mob>
+      <mob name="¹Ð±³³ªÇÑÀå">734</mob>
+      <mob name="¹Ð±³³ªÇÑÅõº´">733</mob>
+      <mob name="¹Ð±³³ªÇÑÅõº´">733</mob>
+    </group>
+    <group name="L49_¹Ð±³ÁýÇàº´(S_KNIGHT)-¹Ð±³ÁýÇàº´(S_KNIGHT)" vnum="722">
+      <mob name="¹Ð±³ÁýÇàº´">735</mob>
+      <mob name="¹Ð±³³ªÇÑÀå">734</mob>
+      <mob name="¹Ð±³³ªÇÑÀå">734</mob>
+      <mob name="¹Ð±³³ªÇÑÅõº´">733</mob>
+    </group>
+    <group name="L34_¹Ð±³°­¹Ú·É(S_KNIGHT)-¹Ð±³ÁýÇàº´(S_KNIGHT)" vnum="723">
+      <mob name="¹Ð±³°­¹Ú·É">736</mob>
+      <mob name="¹Ð±³ÁýÇàº´">735</mob>
+      <mob name="¹Ð±³³ªÇÑÀå">734</mob>
+      <mob name="¹Ð±³³ªÇÑÀå">734</mob>
+    </group>
+    <group name="L34_¹Ð±³°­¹Ú·É(S_KNIGHT)-¹Ð±³°­¹Ú·É(S_KNIGHT)" vnum="724">
+      <mob name="¹Ð±³°­¹Ú·É">736</mob>
+      <mob name="¹Ð±³°­¹Ú·É">736</mob>
+      <mob name="¹Ð±³ÁýÇàº´">735</mob>
+      <mob name="¹Ð±³ÁýÇàº´">735</mob>
+    </group>
+    <group name="L37_¹Ð±³¼ÒÈ¯·É(S_KNIGHT)-¹Ð±³°­¹Ú·É(S_KNIGHT)" vnum="725">
+      <mob name="¹Ð±³¼ÒÈ¯·É">737</mob>
+      <mob name="¹Ð±³°­¹Ú·É">736</mob>
+      <mob name="¹Ð±³°­¹Ú·É">736</mob>
+      <mob name="¹Ð±³ÁýÇàº´">735</mob>
+    </group>
+    <group name="L37_¹Ð±³¼ÒÈ¯·É(S_KNIGHT)-¹Ð±³¼ÒÈ¯·É(S_KNIGHT)" vnum="726">
+      <mob name="¹Ð±³¼ÒÈ¯·É">737</mob>
+      <mob name="¹Ð±³¼ÒÈ¯·É">737</mob>
+      <mob name="¹Ð±³°­¹Ú·É">736</mob>
+      <mob name="¹Ð±³ÁýÇàº´">735</mob>
+    </group>
+    <group name="L40_¹Ð±³±³ÁÖ(BOSS)-¹Ð±³¼ÒÈ¯·É(S_KNIGHT)" vnum="727">
+      <mob name="¹Ð±³±³ÁÖ">791</mob>
+      <mob name="¹Ð±³¼ÒÈ¯·É">737</mob>
+      <mob name="¹Ð±³¼ÒÈ¯·É">737</mob>
+      <mob name="¹Ð±³ÁýÇàº´">735</mob>
+      <mob name="¹Ð±³ÁýÇàº´">735</mob>
+    </group>
+    <group name="L48_±«Áú°¨¿°°ß(S_PAWN)-½Ã±Í(S_PAWN)" vnum="901">
+      <mob name="±«Áú°¨¿°°ß">902</mob>
+      <mob name="½Ã±Í">901</mob>
+      <mob name="½Ã±Í">901</mob>
+      <mob name="½Ã±Í">901</mob>
+    </group>
+    <group name="L48_±«Áú°¨¿°°ß(S_PAWN)-±«Áú°¨¿°°ß(S_PAWN)" vnum="902">
+      <mob name="±«Áú°¨¿°°ß">902</mob>
+      <mob name="±«Áú°¨¿°°ß">902</mob>
+      <mob name="½Ã±Í">901</mob>
+      <mob name="½Ã±Í">901</mob>
+    </group>
+    <group name="L48_±«Áú°¨¿°°ß(S_PAWN)-±«Áú°¨¿°°ß(S_PAWN)" vnum="903">
+      <mob name="±«Áú°¨¿°°ß">902</mob>
+      <mob name="±«Áú°¨¿°°ß">902</mob>
+      <mob name="½Ã±Í">901</mob>
+      <mob name="½Ã±Í">901</mob>
+    </group>
+    <group name="L50_±«Áú°¨¿°ÀÚ(S_PAWN)-±«Áú°¨¿°°ß(S_PAWN)" vnum="904">
+      <mob name="±«Áú°¨¿°ÀÚ">903</mob>
+      <mob name="±«Áú°¨¿°°ß">902</mob>
+      <mob name="±«Áú°¨¿°°ß">902</mob>
+      <mob name="±«Áú°¨¿°°ß">902</mob>
+    </group>
+    <group name="L50_±«Áú°¨¿°ÀÚ(S_PAWN)-±«Áú°¨¿°ÀÚ(S_PAWN)" vnum="905">
+      <mob name="±«Áú°¨¿°ÀÚ">903</mob>
+      <mob name="±«Áú°¨¿°ÀÚ">903</mob>
+      <mob name="±«Áú°¨¿°°ß">902</mob>
+      <mob name="±«Áú°¨¿°°ß">902</mob>
+    </group>
+    <group name="L52_±«Áú°¨¿°º´(KNIGHT)-±«Áú°¨¿°ÀÚ(S_PAWN)" vnum="906">
+      <mob name="±«Áú°¨¿°º´">904</mob>
+      <mob name="±«Áú°¨¿°ÀÚ">903</mob>
+      <mob name="±«Áú°¨¿°ÀÚ">903</mob>
+      <mob name="±«Áú°¨¿°°ß">902</mob>
+      <mob name="±«Áú°¨¿°°ß">902</mob>
+    </group>
+    <group name="L52_±«Áú°¨¿°º´(KNIGHT)-±«Áú°¨¿°º´(KNIGHT)" vnum="907">
+      <mob name="±«Áú°¨¿°º´">904</mob>
+      <mob name="±«Áú°¨¿°º´">904</mob>
+      <mob name="±«Áú°¨¿°ÀÚ">903</mob>
+      <mob name="±«Áú°¨¿°ÀÚ">903</mob>
+    </group>
+    <group name="L53_±«Áú°¨¿°Ã¢º´(KNIGHT)-±«Áú°¨¿°º´(KNIGHT)" vnum="908">
+      <mob name="±«Áú°¨¿°Ã¢º´">905</mob>
+      <mob name="±«Áú°¨¿°º´">904</mob>
+      <mob name="±«Áú°¨¿°º´">904</mob>
+      <mob name="±«Áú°¨¿°ÀÚ">903</mob>
+    </group>
+    <group name="L53_±«Áú°¨¿°Ã¢º´(KNIGHT)-±«Áú°¨¿°Ã¢º´(KNIGHT)" vnum="909">
+      <mob name="±«Áú°¨¿°Ã¢º´">905</mob>
+      <mob name="±«Áú°¨¿°Ã¢º´">905</mob>
+      <mob name="±«Áú°¨¿°º´">904</mob>
+      <mob name="±«Áú°¨¿°º´">904</mob>
+    </group>
+    <group name="L54_±«Áú°¨¿°±Ã¼ö(KNIGHT)-±«Áú°¨¿°Ã¢º´(KNIGHT)" vnum="910">
+      <mob name="±«Áú°¨¿°±Ã¼ö">906</mob>
+      <mob name="±«Áú°¨¿°Ã¢º´">905</mob>
+      <mob name="±«Áú°¨¿°º´">904</mob>
+    </group>
+    <group name="L54_±«Áú°¨¿°±Ã¼ö(KNIGHT)-±«Áú°¨¿°±Ã¼ö(KNIGHT)" vnum="911">
+      <mob name="±«Áú°¨¿°±Ã¼ö">906</mob>
+      <mob name="±«Áú°¨¿°Ã¢º´">905</mob>
+      <mob name="±«Áú°¨¿°Ã¢º´">905</mob>
+    </group>
+    <group name="L54_±«Áú°¨¿°´ëÀå(S_KNIGHT)-±«Áú°¨¿°±Ã¼ö(KNIGHT)" vnum="912">
+      <mob name="±«Áú°¨¿°´ëÀå">907</mob>
+      <mob name="±«Áú°¨¿°±Ã¼ö">906</mob>
+      <mob name="±«Áú°¨¿°Ã¢º´">905</mob>
+      <mob name="±«Áú°¨¿°Ã¢º´">905</mob>
+    </group>
+    <group name="L54_±«Áú°¨¿°´ëÀå(S_KNIGHT)-±«Áú°¨¿°´ëÀå(S_KNIGHT)" vnum="913">
+      <mob name="±«Áú°¨¿°´ëÀå">907</mob>
+      <mob name="±«Áú°¨¿°´ëÀå">907</mob>
+      <mob name="±«Áú°¨¿°±Ã¼ö">906</mob>
+      <mob name="±«Áú°¨¿°±Ã¼ö">906</mob>
+    </group>
+    <group name="L55_±«Áú°¨¿°¾Ë(BOSS)-±«Áú°¨¿°´ëÀå(S_KNIGHT)" vnum="914">
+      <mob name="±«Áú°¨¿°¾Ë">991</mob>
+      <mob name="±«Áú°¨¿°´ëÀå">907</mob>
+      <mob name="±«Áú°¨¿°±Ã¼ö">906</mob>
+      <mob name="±«Áú°¨¿°±Ã¼ö">906</mob>
+      <mob name="±«Áú°¨¿°Ã¢º´">905</mob>
+    </group>
+    <group name="L56_±«Áú°¨¿°¸Å°³Ã¼(BOSS)-±«Áú°¨¿°´ëÀå(S_KNIGHT)" vnum="915">
+      <mob name="±«Áú°¨¿°¸Å°³Ã¼">992</mob>
+      <mob name="±«Áú°¨¿°´ëÀå">907</mob>
+      <mob name="±«Áú°¨¿°±Ã¼ö">906</mob>
+      <mob name="±«Áú°¨¿°±Ã¼ö">906</mob>
+      <mob name="±«Áú°¨¿°Ã¢º´">905</mob>
+    </group>
+    <group name="L57_´ëÇü°¨¿°¸Å°³Ã¼(KING)-±«Áú°¨¿°´ëÀå(S_KNIGHT)" vnum="916">
+      <mob name="´ëÇü°¨¿°¸Å°³Ã¼">993</mob>
+      <mob name="±«Áú°¨¿°´ëÀå">907</mob>
+      <mob name="±«Áú°¨¿°±Ã¼ö">906</mob>
+      <mob name="±«Áú°¨¿°±Ã¼ö">906</mob>
+      <mob name="±«Áú°¨¿°Ã¢º´">905</mob>
+    </group>
+    <group name="L48_½Ã±Í(S_PAWN)-»ç±Íº´(PWAN)" vnum="917">
+      <mob name="½Ã±Í">901</mob>
+      <mob name="½Ã±Í">901</mob>
+      <mob name="»ç±Íº´">1001</mob>
+      <mob name="»ç±Íº´">1001</mob>
+      <mob name="»ç±Íº´">1001</mob>
+    </group>
+    <group name="L48_½Ã±Í(S_PAWN)-»ç±Íº´(PWAN)" vnum="918">
+      <mob name="½Ã±Í">901</mob>
+      <mob name="½Ã±Í">901</mob>
+      <mob name="½Ã±Í">1001</mob>
+      <mob name="»ç±Íº´">1001</mob>
+      <mob name="»ç±Íº´">1001</mob>
+    </group>
+    <group name="L48_½Ã±Í(S_PAWN)-»ç±Íº´(PWAN)" vnum="919">
+      <mob name="½Ã±Í">901</mob>
+      <mob name="½Ã±Í">901</mob>
+      <mob name="»ç±Í±Ãº´">1002</mob>
+      <mob name="»ç±Í±Ãº´">1002</mob>
+      <mob name="»ç±Íº´">1001</mob>
+    </group>
+    <group name="L60_»ç±Í±Ãº´(S_PAWN)-»ç±Íº´(S_PAWN)" vnum="1001">
+      <mob name="»ç±Í±Ãº´">1002</mob>
+      <mob name="»ç±Íº´">1001</mob>
+      <mob name="»ç±Íº´">1001</mob>
+      <mob name="»ç±Íº´">1001</mob>
+      <mob name="»ç±Íº´">1001</mob>
+    </group>
+    <group name="L60_»ç±Í±Ãº´(S_PAWN)-»ç±Í±Ãº´(S_PAWN)" vnum="1002">
+      <mob name="»ç±Í±Ãº´">1002</mob>
+      <mob name="»ç±Í±Ãº´">1002</mob>
+      <mob name="»ç±Íº´">1001</mob>
+      <mob name="»ç±Íº´">1001</mob>
+      <mob name="»ç±Íº´">1001</mob>
+    </group>
+    <group name="L60_»ç±Í±Ãº´(S_PAWN)-»ç±Í±Ãº´(S_PAWN)" vnum="1003">
+      <mob name="»ç±Í±Ãº´">1002</mob>
+      <mob name="»ç±Í±Ãº´">1002</mob>
+      <mob name="»ç±Í±Ãº´">1002</mob>
+      <mob name="»ç±Íº´">1001</mob>
+      <mob name="»ç±Íº´">1001</mob>
+    </group>
+    <group name="L16_»ç±ÍÃ¢º´(S_PAWN)-»ç±Í±Ãº´(S_PAWN)" vnum="1004">
+      <mob name="»ç±ÍÃ¢º´">1003</mob>
+      <mob name="»ç±Í±Ãº´">1002</mob>
+      <mob name="»ç±Í±Ãº´">1002</mob>
+      <mob name="»ç±Íº´">1001</mob>
+      <mob name="»ç±Íº´">1001</mob>
+    </group>
+    <group name="L16_»ç±ÍÃ¢º´(S_PAWN)-»ç±ÍÃ¢º´(S_PAWN)" vnum="1005">
+      <mob name="»ç±ÍÃ¢º´">1003</mob>
+      <mob name="»ç±ÍÃ¢º´">1003</mob>
+      <mob name="»ç±Í±Ãº´">1002</mob>
+      <mob name="»ç±Í±Ãº´">1002</mob>
+      <mob name="»ç±Í±Ãº´">1002</mob>
+    </group>
+    <group name="L36_»ç±ÍÁÖ¼ú»ç(KNIGHT)-»ç±ÍÃ¢º´(S_PAWN)" vnum="1006">
+      <mob name="»ç±ÍÁÖ¼ú»ç">1004</mob>
+      <mob name="»ç±ÍÃ¢º´">1003</mob>
+      <mob name="»ç±ÍÃ¢º´">1003</mob>
+      <mob name="»ç±Í±Ãº´">1002</mob>
+      <mob name="»ç±Í±Ãº´">1002</mob>
+    </group>
+    <group name="L36_»ç±ÍÁÖ¼ú»ç(KNIGHT)-»ç±ÍÁÖ¼ú»ç(KNIGHT)" vnum="1007">
+      <mob name="»ç±ÍÁÖ¼ú»ç">1004</mob>
+      <mob name="»ç±ÍÁÖ¼ú»ç">1004</mob>
+      <mob name="»ç±ÍÃ¢º´">1003</mob>
+      <mob name="»ç±ÍÃ¢º´">1003</mob>
+      <mob name="»ç±ÍÃ¢º´">1003</mob>
+    </group>
+    <group name="L43_Àü±Í±Ãº´(KNIGHT)-Àü±Íº´(KNIGHT)" vnum="1008">
+      <mob name="Àü±Í±Ãº´">1032</mob>
+      <mob name="Àü±Íº´">1031</mob>
+      <mob name="Àü±Íº´">1031</mob>
+      <mob name="Àü±Íº´">1031</mob>
+      <mob name="Àü±Íº´">1031</mob>
+    </group>
+    <group name="L43_Àü±Í±Ãº´(KNIGHT)-Àü±Í±Ãº´(KNIGHT)" vnum="1009">
+      <mob name="Àü±Í±Ãº´">1032</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+      <mob name="Àü±Íº´">1031</mob>
+      <mob name="Àü±Íº´">1031</mob>
+      <mob name="Àü±Íº´">1031</mob>
+    </group>
+    <group name="L43_Àü±Í±Ãº´(KNIGHT)-Àü±Í±Ãº´(KNIGHT)" vnum="1010">
+      <mob name="Àü±Í±Ãº´">1032</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+      <mob name="Àü±Íº´">1031</mob>
+      <mob name="Àü±Íº´">1031</mob>
+    </group>
+    <group name="L45_Àü±ÍÃ¢º´(KNIGHT)-Àü±ÍÃ¢º´(KNIGHT)" vnum="1011">
+      <mob name="Àü±ÍÃ¢º´">1033</mob>
+      <mob name="Àü±ÍÃ¢º´">1033</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+      <mob name="Àü±Íº´">1031</mob>
+    </group>
+    <group name="L45_Àü±ÍÃ¢º´(KNIGHT)-Àü±ÍÃ¢º´(KNIGHT)" vnum="1012">
+      <mob name="Àü±ÍÃ¢º´">1033</mob>
+      <mob name="Àü±ÍÃ¢º´">1033</mob>
+      <mob name="Àü±ÍÃ¢º´">1033</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+    </group>
+    <group name="L47_Àü±ÍÁÖ¼ú»ç(KNIGHT)-Àü±ÍÃ¢º´(KNIGHT)" vnum="1013">
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±ÍÃ¢º´">1033</mob>
+      <mob name="Àü±ÍÃ¢º´">1033</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+    </group>
+    <group name="L47_Àü±ÍÁÖ¼ú»ç(KNIGHT)-Àü±ÍÁÖ¼ú»ç(KNIGHT)" vnum="1014">
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±ÍÃ¢º´">1033</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+    </group>
+    <group name="L49_¿ø¸ÁÀÇ_¸Á·É(KNIGHT)-Àü±ÍÁÖ¼ú»ç(KNIGHT)" vnum="1015">
+      <mob name="¿ø¸ÁÀÇ_¸Á·É">1035</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+    </group>
+    <group name="L49_¿ø¸ÁÀÇ_¸Á·É(KNIGHT)-¿ø¸ÁÀÇ_¸Á·É(KNIGHT)" vnum="1016">
+      <mob name="¿ø¸ÁÀÇ_¸Á·É">1035</mob>
+      <mob name="¿ø¸ÁÀÇ_¸Á·É">1035</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+    </group>
+    <group name="L52_È¥µ·ÀÇ_¸Á·É(KNIGHT)-¿ø¸ÁÀÇ_¸Á·É(KNIGHT)" vnum="1017">
+      <mob name="È¥µ·ÀÇ_¸Á·É">1036</mob>
+      <mob name="¿ø¸ÁÀÇ_¸Á·É">1035</mob>
+      <mob name="¿ø¸ÁÀÇ_¸Á·É">1035</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+    </group>
+    <group name="L52_È¥µ·ÀÇ_¸Á·É(KNIGHT)-È¥µ·ÀÇ_¸Á·É(KNIGHT)" vnum="1018">
+      <mob name="È¥µ·ÀÇ_¸Á·É">1036</mob>
+      <mob name="È¥µ·ÀÇ_¸Á·É">1036</mob>
+      <mob name="¿ø¸ÁÀÇ_¸Á·É">1035</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+    </group>
+    <group name="L67_Àü±ÍÀå(S_KNIGHT)-Àü±ÍÁÖ¼ú»ç(KNIGHT)" vnum="1019">
+      <mob name="Àü±ÍÀå">1037</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+    </group>
+    <group name="L42_Áö¸¶Àå(S_KNIGHT)-Àü±ÍÁÖ¼ú»ç(KNIGHT)" vnum="1020">
+      <mob name="Áö¸¶Àå">1038</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+    </group>
+    <group name="L44_Àü·É»ç(S_KNIGHT)-Àü±ÍÁÖ¼ú»ç(KNIGHT)" vnum="1021">
+      <mob name="Àü·É»ç">1039</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±ÍÃ¢º´">1033</mob>
+      <mob name="Àü±ÍÃ¢º´">1033</mob>
+    </group>
+    <group name="L45_ºÒ»ç±Í(S_KNIGHT)-ºÒ»ç±Í(S_KNIGHT)" vnum="1022">
+      <mob name="ºÒ»ç±Í">1040</mob>
+      <mob name="ºÒ»ç±Í">1040</mob>
+      <mob name="ºÒ»ç±Í">1040</mob>
+      <mob name="ºÒ»ç±Í">1040</mob>
+      <mob name="ºÒ»ç±Í">1040</mob>
+    </group>
+    <group name="L47_ÀçÈ°±«¹°(S_KNIGHT)-¿ø¸ÁÀÇ_¸Á·É(KNIGHT)" vnum="1023">
+      <mob name="ÀçÈ°±«¹°">1041</mob>
+      <mob name="¿ø¸ÁÀÇ_¸Á·É">1035</mob>
+      <mob name="È¥µ·ÀÇ_¸Á·É">1036</mob>
+      <mob name="¿ø¸ÁÀÇ_¸Á·É">1035</mob>
+      <mob name="È¥µ·ÀÇ_¸Á·É">1036</mob>
+    </group>
+    <group name="L69_»ç±Í¿Õ(BOSS)-Àü±ÍÀå(S_KNIGHT)" vnum="1024">
+      <mob name="»ç±Í¿Õ">1091</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±ÍÃ¢º´">1033</mob>
+      <mob name="Àü±ÍÃ¢º´">1033</mob>
+    </group>
+    <group name="L69_»ç±Í¿Õ(BOSS)-Àü±ÍÀå(S_KNIGHT)" vnum="1025">
+      <mob name="»ç±Í¿Õ">1091</mob>
+      <mob name="Àü±ÍÀå">1037</mob>
+      <mob name="Áö¸¶Àå">1038</mob>
+      <mob name="Àü·É»ç">1039</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+    </group>
+    <group name="L70_»ç±Í¿Õ(BOSS)-Àü±ÍÀå(S_KNIGHT)" vnum="1026">
+      <mob name="»ç±Í¿Õ">1092</mob>
+      <mob name="Àü±ÍÀå">1037</mob>
+      <mob name="Áö¸¶Àå">1038</mob>
+      <mob name="Àü·É»ç">1039</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+    </group>
+    <group name="L42_Áö¸¶Àå(S_KNIGHT)-Àü±ÍÁÖ¼ú»ç(KNIGHT)" vnum="1027">
+      <mob name="Áö¸¶Àå">1038</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±ÍÁÖ¼ú»ç">1034</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+      <mob name="Àü±Í±Ãº´">1032</mob>
+    </group>
+    <group name="L44_Àü·É»ç(S_KNIGHT)-Àü±ÍÁÖ¼ú»ç(KNIGHT)" vnum="1028">
+      <mob name="ºÒ»ç±Í">1040</mob>
+      <mob name="ºÒ»ç±Í">1040</mob>
+      <mob name="Àü·É»ç">1039</mob>
+      <mob name="Àü·É»ç">1039</mob>
+      <mob name="Áö¸¶Àå">1038</mob>
+    </group>
+    <group name="L45_ºÒ»ç±Í(S_KNIGHT)-ºÒ»ç±Í(S_KNIGHT)" vnum="1029">
+      <mob name="ºÒ»ç±Í">1040</mob>
+      <mob name="ºÒ»ç±Í">1040</mob>
+      <mob name="ºÒ»ç±Í">1040</mob>
+      <mob name="ºÒ»ç±Í">1040</mob>
+      <mob name="ºÒ»ç±Í">1040</mob>
+    </group>
+    <group name="L47_ÀçÈ°±«¹°(S_KNIGHT)-¿ø¸ÁÀÇ_¸Á·É(KNIGHT)" vnum="1030">
+      <mob name="ÀçÈ°±«¹°">1041</mob>
+      <mob name="ÀçÈ°±«¹°">1041</mob>
+      <mob name="ºÒ»ç±Í">1040</mob>
+      <mob name="ºÒ»ç±Í">1040</mob>
+      <mob name="ºÒ»ç±Í">1040</mob>
+    </group>
+    <group name="L47_ÀçÈ°±«¹°(S_KNIGHT)-¿ø¸ÁÀÇ_¸Á·É(KNIGHT)" vnum="1031">
+      <mob name="ÀçÈ°±«¹°">1093</mob>
+      <mob name="ÀçÈ°±«¹°">1041</mob>
+      <mob name="ºÒ»ç±Í">1040</mob>
+      <mob name="ºÒ»ç±Í">1040</mob>
+      <mob name="ºÒ»ç±Í">1040</mob>
+    </group>
+    <group name="L73_¾óÀ½»Ô¹ü°í·¡(S_PAWN)-ºù¸¶(S_PAWN)" vnum="1101">
+      <mob name="¾óÀ½»Ô¹ü°í·¡">1102</mob>
+      <mob name="ºù¸¶">1101</mob>
+      <mob name="ºù¸¶">1101</mob>
+    </group>
+    <group name="L73_¾óÀ½»Ô¹ü°í·¡(S_PAWN)-¾óÀ½»Ô¹ü°í·¡(S_PAWN)" vnum="1102">
+      <mob name="¾óÀ½»Ô¹ü°í·¡">1102</mob>
+      <mob name="¾óÀ½»Ô¹ü°í·¡">1102</mob>
+      <mob name="ºù¸¶">1101</mob>
+      <mob name="ºù¸¶">1101</mob>
+    </group>
+    <group name="L73_¾óÀ½»Ô¹ü°í·¡(S_PAWN)-¾óÀ½»Ô¹ü°í·¡(S_PAWN)" vnum="1103">
+      <mob name="¾óÀ½»Ô¹ü°í·¡">1102</mob>
+      <mob name="¾óÀ½»Ô¹ü°í·¡">1102</mob>
+      <mob name="¾óÀ½»Ô¹ü°í·¡">1102</mob>
+      <mob name="ºù¸¶">1101</mob>
+    </group>
+    <group name="L71_ºùÃæ(S_PAWN)-¾óÀ½»Ô¹ü°í·¡(S_PAWN)" vnum="1104">
+      <mob name="ºùÃæ">1103</mob>
+      <mob name="¾óÀ½»Ô¹ü°í·¡">1102</mob>
+      <mob name="ºù¸¶">1101</mob>
+      <mob name="ºù¸¶">1101</mob>
+    </group>
+    <group name="L71_ºùÃæ(S_PAWN)-ºùÃæ(S_PAWN)" vnum="1105">
+      <mob name="ºùÃæ">1103</mob>
+      <mob name="ºùÃæ">1103</mob>
+      <mob name="¾óÀ½»Ô¹ü°í·¡">1102</mob>
+      <mob name="ºù¸¶">1101</mob>
+    </group>
+    <group name="L72_¼³±¸(KNIGHT)-ºùÃæ(S_PAWN)" vnum="1106">
+      <mob name="¼³±¸">1104</mob>
+      <mob name="ºùÃæ">1103</mob>
+      <mob name="¾óÀ½»Ô¹ü°í·¡">1102</mob>
+      <mob name="ºù¸¶">1101</mob>
+    </group>
+    <group name="L72_¼³±¸(KNIGHT)-¼³±¸(KNIGHT)" vnum="1107">
+      <mob name="¼³±¸">1104</mob>
+      <mob name="¼³±¸">1104</mob>
+      <mob name="ºùÃæ">1103</mob>
+    </group>
+    <group name="L73_ºùÀÎ(KNIGHT)-¼³±¸(KNIGHT)" vnum="1108">
+      <mob name="ºùÀÎ">1105</mob>
+      <mob name="¼³±¸">1104</mob>
+      <mob name="¼³±¸">1104</mob>
+      <mob name="ºùÃæ">1103</mob>
+      <mob name="ºù¸¶">1101</mob>
+    </group>
+    <group name="L73_ºùÀÎ(KNIGHT)-ºùÀÎ(KNIGHT)" vnum="1109">
+      <mob name="ºùÀÎ">1105</mob>
+      <mob name="ºùÀÎ">1105</mob>
+      <mob name="¼³±¸">1104</mob>
+      <mob name="¼³±¸">1104</mob>
+    </group>
+    <group name="L74_¼³°ÅÀÎ(KNIGHT)-ºùÀÎ(KNIGHT)" vnum="1110">
+      <mob name="¼³°ÅÀÎ">1106</mob>
+      <mob name="ºùÀÎ">1105</mob>
+      <mob name="ºùÀÎ">1105</mob>
+      <mob name="ºùÃæ">1103</mob>
+      <mob name="ºùÃæ">1103</mob>
+    </group>
+    <group name="L74_¼³°ÅÀÎ(KNIGHT)-¼³°ÅÀÎ(KNIGHT)" vnum="1111">
+      <mob name="¼³°ÅÀÎ">1106</mob>
+      <mob name="¼³°ÅÀÎ">1106</mob>
+      <mob name="ºùÀÎ">1105</mob>
+      <mob name="ºùÀÎ">1105</mob>
+      <mob name="¼³±¸">1104</mob>
+    </group>
+    <group name="L75_¾óÀ½°í·½(S_KNIGHT)-¼³°ÅÀÎ(KNIGHT)" vnum="1112">
+      <mob name="¾óÀ½°í·½">1107</mob>
+      <mob name="ºùÀÎ">1105</mob>
+      <mob name="ºùÀÎ">1105</mob>
+      <mob name="¼³°ÅÀÎ">1106</mob>
+      <mob name="¼³°ÅÀÎ">1106</mob>
+    </group>
+    <group name="L75_¾óÀ½°í·½(S_KNIGHT)-¾óÀ½°í·½(S_KNIGHT)" vnum="1113">
+      <mob name="¾óÀ½°í·½">1107</mob>
+      <mob name="¾óÀ½°í·½">1107</mob>
+      <mob name="¼³°ÅÀÎ">1106</mob>
+      <mob name="¼³°ÅÀÎ">1106</mob>
+      <mob name="¼³°ÅÀÎ">1106</mob>
+    </group>
+    <group name="L67_±¸¹ÌÈ£(BOSS)-¾óÀ½°í·½(S_KNIGHT)" vnum="1114">
+      <mob name="±¸¹ÌÈ£">1901</mob>
+      <mob name="¾óÀ½°í·½">1107</mob>
+      <mob name="¾óÀ½°í·½">1107</mob>
+      <mob name="¼³°ÅÀÎ">1106</mob>
+      <mob name="ºù¸¶">1101</mob>
+    </group>
+    <group name="L72_»õ³¢°Å¹Ì(PAWN)-»õ³¢°Å¹Ì(PAWN)" vnum="2001">
+      <mob name="»õ³¢°Å¹Ì">2001</mob>
+      <mob name="»õ³¢°Å¹Ì">2001</mob>
+      <mob name="»õ³¢°Å¹Ì">2001</mob>
+    </group>
+    <group name="L73_µ¶°Å¹Ì(PAWN)-»õ³¢°Å¹Ì(PAWN)" vnum="2002">
+      <mob name="µ¶°Å¹Ì">2002</mob>
+      <mob name="»õ³¢°Å¹Ì">2001</mob>
+      <mob name="»õ³¢°Å¹Ì">2001</mob>
+    </group>
+    <group name="L73_µ¶°Å¹Ì(PAWN)-µ¶°Å¹Ì(PAWN)" vnum="2003">
+      <mob name="µ¶°Å¹Ì">2002</mob>
+      <mob name="µ¶°Å¹Ì">2002</mob>
+      <mob name="»õ³¢°Å¹Ì">2001</mob>
+    </group>
+    <group name="L74_ºÓÀºµ¶°Å¹Ì(S_PAWN)-µ¶°Å¹Ì(PAWN)" vnum="2004">
+      <mob name="ºÓÀºµ¶°Å¹Ì">2003</mob>
+      <mob name="µ¶°Å¹Ì">2002</mob>
+      <mob name="µ¶°Å¹Ì">2002</mob>
+    </group>
+    <group name="L74_ºÓÀºµ¶°Å¹Ì(S_PAWN)-ºÓÀºµ¶°Å¹Ì(S_PAWN)" vnum="2005">
+      <mob name="ºÓÀºµ¶°Å¹Ì">2003</mob>
+      <mob name="ºÓÀºµ¶°Å¹Ì">2003</mob>
+      <mob name="µ¶°Å¹Ì">2002</mob>
+    </group>
+    <group name="L75_Áý°Ô°Å¹Ì(S_PAWN)-ºÓÀºµ¶°Å¹Ì(S_PAWN)" vnum="2006">
+      <mob name="Áý°Ô°Å¹Ì">2004</mob>
+      <mob name="ºÓÀºµ¶°Å¹Ì">2003</mob>
+      <mob name="ºÓÀºµ¶°Å¹Ì">2003</mob>
+    </group>
+    <group name="L75_Áý°Ô°Å¹Ì(S_PAWN)-Áý°Ô°Å¹Ì(S_PAWN)" vnum="2007">
+      <mob name="Áý°Ô°Å¹Ì">2004</mob>
+      <mob name="Áý°Ô°Å¹Ì">2004</mob>
+      <mob name="ºÓÀºµ¶°Å¹Ì">2003</mob>
+    </group>
+    <group name="L74_º´Á¤°Å¹Ì(S_PAWN)-Áý°Ô°Å¹Ì(S_PAWN)" vnum="2008">
+      <mob name="º´Á¤°Å¹Ì">2005</mob>
+      <mob name="Áý°Ô°Å¹Ì">2004</mob>
+      <mob name="Áý°Ô°Å¹Ì">2004</mob>
+    </group>
+    <group name="L74_º´Á¤°Å¹Ì(S_PAWN)-º´Á¤°Å¹Ì(S_PAWN)" vnum="2009">
+      <mob name="º´Á¤°Å¹Ì">2005</mob>
+      <mob name="º´Á¤°Å¹Ì">2005</mob>
+      <mob name="Áý°Ô°Å¹Ì">2004</mob>
+    </group>
+    <group name="L74_»õ³¢µ¶°Å¹Ì(KNIGHT)-»õ³¢µ¶°Å¹Ì(KNIGHT)" vnum="2010">
+      <mob name="»õ³¢µ¶°Å¹Ì">2031</mob>
+      <mob name="»õ³¢µ¶°Å¹Ì">2031</mob>
+      <mob name="»õ³¢µ¶°Å¹Ì">2031</mob>
+    </group>
+    <group name="L77_¸Íµ¶°Å¹Ì(KNIGHT)-»õ³¢µ¶°Å¹Ì(KNIGHT)" vnum="2011">
+      <mob name="¸Íµ¶°Å¹Ì">2032</mob>
+      <mob name="»õ³¢µ¶°Å¹Ì">2031</mob>
+      <mob name="»õ³¢µ¶°Å¹Ì">2031</mob>
+    </group>
+    <group name="L77_¸Íµ¶°Å¹Ì(KNIGHT)-¸Íµ¶°Å¹Ì(KNIGHT)" vnum="2012">
+      <mob name="¸Íµ¶°Å¹Ì">2032</mob>
+      <mob name="¸Íµ¶°Å¹Ì">2032</mob>
+      <mob name="»õ³¢µ¶°Å¹Ì">2031</mob>
+    </group>
+    <group name="L62_ºÓÀº¸Íµ¶°Å¹Ì(S_KNIGHT)-¸Íµ¶°Å¹Ì(KNIGHT)" vnum="2013">
+      <mob name="ºÓÀº¸Íµ¶°Å¹Ì">2033</mob>
+      <mob name="¸Íµ¶°Å¹Ì">2032</mob>
+      <mob name="¸Íµ¶°Å¹Ì">2032</mob>
+    </group>
+    <group name="L62_ºÓÀº¸Íµ¶°Å¹Ì(S_KNIGHT)-ºÓÀº¸Íµ¶°Å¹Ì(S_KNIGHT)" vnum="2014">
+      <mob name="ºÓÀº¸Íµ¶°Å¹Ì">2033</mob>
+      <mob name="ºÓÀº¸Íµ¶°Å¹Ì">2033</mob>
+      <mob name="¸Íµ¶°Å¹Ì">2032</mob>
+    </group>
+    <group name="L63_Áý°Ôµ¶°Å¹Ì(S_KNIGHT)-ºÓÀº¸Íµ¶°Å¹Ì(S_KNIGHT)" vnum="2015">
+      <mob name="Áý°Ôµ¶°Å¹Ì">2034</mob>
+      <mob name="ºÓÀº¸Íµ¶°Å¹Ì">2033</mob>
+      <mob name="ºÓÀº¸Íµ¶°Å¹Ì">2033</mob>
+    </group>
+    <group name="L63_Áý°Ôµ¶°Å¹Ì(S_KNIGHT)-Áý°Ôµ¶°Å¹Ì(S_KNIGHT)" vnum="2016">
+      <mob name="Áý°Ôµ¶°Å¹Ì">2034</mob>
+      <mob name="Áý°Ôµ¶°Å¹Ì">2034</mob>
+      <mob name="ºÓÀº¸Íµ¶°Å¹Ì">2033</mob>
+    </group>
+    <group name="L64_º´Á¤µ¶°Å¹Ì(S_KNIGHT)-Áý°Ôµ¶°Å¹Ì(S_KNIGHT)" vnum="2017">
+      <mob name="º´Á¤µ¶°Å¹Ì">2035</mob>
+      <mob name="Áý°Ôµ¶°Å¹Ì">2034</mob>
+      <mob name="Áý°Ôµ¶°Å¹Ì">2034</mob>
+    </group>
+    <group name="L64_º´Á¤µ¶°Å¹Ì(S_KNIGHT)-º´Á¤µ¶°Å¹Ì(S_KNIGHT)" vnum="2018">
+      <mob name="º´Á¤µ¶°Å¹Ì">2035</mob>
+      <mob name="º´Á¤µ¶°Å¹Ì">2035</mob>
+      <mob name="Áý°Ôµ¶°Å¹Ì">2034</mob>
+    </group>
+    <group name="L64_¿©¿Õ°Å¹Ì(BOSS)-Áý°Ôµ¶°Å¹Ì(S_KNIGHT)" vnum="2019">
+      <mob name="¿©¿Õ°Å¹Ì">2091</mob>
+      <mob name="Áý°Ôµ¶°Å¹Ì">2034</mob>
+      <mob name="Áý°Ôµ¶°Å¹Ì">2034</mob>
+    </group>
+    <group name="L65_´ë¿Õ°Å¹Ì(KING)-º´Á¤µ¶°Å¹Ì(S_KNIGHT)" vnum="2020">
+      <mob name="´ë¿Õ°Å¹Ì">2092</mob>
+      <mob name="º´Á¤µ¶°Å¹Ì">2035</mob>
+      <mob name="º´Á¤µ¶°Å¹Ì">2035</mob>
+    </group>
+    <group name="L64_º´Á¤µ¶°Å¹Ì(S_KNIGHT)-º´Á¤µ¶°Å¹Ì(S_KNIGHT)" vnum="2021">
+      <mob name="º´Á¤µ¶°Å¹Ì">2036</mob>
+      <mob name="º´Á¤µ¶°Å¹Ì">2036</mob>
+      <mob name="Áý°Ôµ¶°Å¹Ì">2034</mob>
+    </group>
+    <group name="L68_´ë¿ÕÀü°¥(S_PAWN)-ºñ¸¶±Í¾È(S_PAWN)" vnum="1301">
+      <mob name="´ë¿ÕÀü°¥">2103</mob>
+      <mob name="ºñ¸¶±Í¾È">2102</mob>
+      <mob name="ºñ¸¶±Í¾È">2102</mob>
+      <mob name="ºñ¸¶±Í¾È">2102</mob>
+    </group>
+    <group name="L68_´ë¿ÕÀü°¥(S_PAWN)-´ë¿ÕÀü°¥(S_PAWN)" vnum="1302">
+      <mob name="´ë¿ÕÀü°¥">2103</mob>
+      <mob name="´ë¿ÕÀü°¥">2103</mob>
+      <mob name="ºñ¸¶±Í¾È">2102</mob>
+      <mob name="ºñ¸¶±Í¾È">2102</mob>
+    </group>
+    <group name="L68_´ë¿ÕÀü°¥(S_PAWN)-´ë¿ÕÀü°¥(S_PAWN)" vnum="1303">
+      <mob name="´ë¿ÕÀü°¥">2103</mob>
+      <mob name="´ë¿ÕÀü°¥">2103</mob>
+      <mob name="´ë¿ÕÀü°¥">2103</mob>
+      <mob name="ºñ¸¶±Í¾È">2102</mob>
+    </group>
+    <group name="L66_Àü°¥ÀÎ°£(KNIGHT)-Àü°¥ÀÎ°£(KNIGHT)" vnum="1304">
+      <mob name="Àü°¥ÀÎ°£">2104</mob>
+      <mob name="Àü°¥ÀÎ°£">2104</mob>
+      <mob name="´ë¿ÕÀü°¥">2103</mob>
+      <mob name="´ë¿ÕÀü°¥">2103</mob>
+    </group>
+    <group name="L67_Àü°¥±Ã¼ö(KNIGHT)-Àü°¥ÀÎ°£(KNIGHT)" vnum="1305">
+      <mob name="Àü°¥±Ã¼ö">2105</mob>
+      <mob name="Àü°¥ÀÎ°£">2104</mob>
+      <mob name="´ë¿ÕÀü°¥">2103</mob>
+      <mob name="´ë¿ÕÀü°¥">2103</mob>
+    </group>
+    <group name="L67_Àü°¥±Ã¼ö(KNIGHT)-Àü°¥±Ã¼ö(KNIGHT)" vnum="1306">
+      <mob name="Àü°¥±Ã¼ö">2105</mob>
+      <mob name="Àü°¥ÀÎ°£">2104</mob>
+      <mob name="Àü°¥ÀÎ°£">2104</mob>
+      <mob name="´ë¿ÕÀü°¥">2103</mob>
+    </group>
+    <group name="L69_¹ÝÀÎ¹Ý»ç±Ãº´(KNIGHT)-¹ÝÀÎ¹Ý»ç°Ëº´(KNIGHT)" vnum="1307">
+      <mob name="¹ÝÀÎ¹Ý»ç±Ãº´">2107</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">2106</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">2106</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">2106</mob>
+    </group>
+    <group name="L69_¹ÝÀÎ¹Ý»ç±Ãº´(KNIGHT)-¹ÝÀÎ¹Ý»ç±Ãº´(KNIGHT)" vnum="1308">
+      <mob name="¹ÝÀÎ¹Ý»ç±Ãº´">2107</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç±Ãº´">2107</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">2106</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">2106</mob>
+    </group>
+    <group name="L69_¹ÝÀÎ¹Ý»ç±Ãº´(KNIGHT)-¹ÝÀÎ¹Ý»ç±Ãº´(KNIGHT)" vnum="1309">
+      <mob name="¹ÝÀÎ¹Ý»ç±Ãº´">2107</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">2106</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">2106</mob>
+    </group>
+    <group name="L70_»ç¸·ÀÇ¹«¹ýÀÚ(S_KNIGHT)-¹ÝÀÎ¹Ý»ç±Ãº´(KNIGHT)" vnum="1310">
+      <mob name="»ç¸·ÀÇ¹«¹ýÀÚ">2108</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç±Ãº´">2107</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">2106</mob>
+      <mob name="Àü°¥±Ã¼ö">2105</mob>
+      <mob name="Àü°¥ÀÎ°£">2104</mob>
+    </group>
+    <group name="L72_°Å´ë»ç¸·°ÅºÏ(BOSS)-»ç¸·ÀÇ¹«¹ýÀÚ(S_KNIGHT)" vnum="1311">
+      <mob name="°Å´ë»ç¸·°ÅºÏ">2191</mob>
+      <mob name="»ç¸·ÀÇ¹«¹ýÀÚ">2108</mob>
+      <mob name="»ç¸·ÀÇ¹«¹ýÀÚ">2108</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç±Ãº´">2107</mob>
+      <mob name="Àü°¥±Ã¼ö">2105</mob>
+    </group>
+    <group name="L57_È­·É(S_PAWN)-ÅõÁö¹üÁ¹°³(S_PAWN)" vnum="2201">
+      <mob name="ÅõÁö¹üÁ¹°³">2201</mob>
+      <mob name="ÅõÁö¹üÁ¹°³">2201</mob>
+      <mob name="ÅõÁö¹üÁ¹°³">2201</mob>
+    </group>
+    <group name="L59_ÅõÁö¹ü(KNIGHT)-ÅõÁö¹üÁ¹°³(S_PAWN)" vnum="2202">
+      <mob name="È­·É">2202</mob>
+      <mob name="ÅõÁö¹üÁ¹°³">2201</mob>
+      <mob name="ÅõÁö¹üÁ¹°³">2201</mob>
+      <mob name="ÅõÁö¹üÁ¹°³">2201</mob>
+    </group>
+    <group name="L59_ÅõÁö¹ü(KNIGHT)-ÅõÁö¹ü(KNIGHT)" vnum="2203">
+      <mob name="È­·É">2202</mob>
+      <mob name="È­·É">2202</mob>
+      <mob name="ÅõÁö¹üÁ¹°³">2201</mob>
+      <mob name="ÅõÁö¹üÁ¹°³">2201</mob>
+    </group>
+    <group name="L58_Âü¸¶ÀÎ(KNIGHT)-ÅõÁö¹ü(KNIGHT)" vnum="2204">
+      <mob name="ÅõÁö¹ü">2203</mob>
+      <mob name="ÅõÁö¹ü">2203</mob>
+      <mob name="È­·É">2202</mob>
+      <mob name="È­·É">2202</mob>
+    </group>
+    <group name="L58_Âü¸¶ÀÎ(KNIGHT)-ÅõÁö¹ü(KNIGHT)" vnum="2205">
+      <mob name="Âü¸¶ÀÎ">2204</mob>
+      <mob name="Âü¸¶ÀÎ">2204</mob>
+      <mob name="ÅõÁö¹ü">2203</mob>
+      <mob name="ÅõÁö¹ü">2203</mob>
+    </group>
+    <group name="L58_Âü¸¶ÀÎ(KNIGHT)-ÅõÁö¹ü(KNIGHT)" vnum="2206">
+      <mob name="ÅÂÈ­¹«ÀÎ">2205</mob>
+      <mob name="Âü¸¶ÀÎ">2204</mob>
+      <mob name="Âü¸¶ÀÎ">2204</mob>
+      <mob name="ÅõÁö¹ü">2203</mob>
+      <mob name="ÅõÁö¹ü">2203</mob>
+      <mob name="ÅõÁö¹ü">2203</mob>
+    </group>
+    <group name="L58_Âü¸¶ÀÎ(KNIGHT)-Âü¸¶ÀÎ(KNIGHT)" vnum="2207">
+      <mob name="ÅÂÈ­¹«ÀÎ">2205</mob>
+      <mob name="Âü¸¶ÀÎ">2204</mob>
+      <mob name="È­·É">2202</mob>
+      <mob name="È­·É">2202</mob>
+      <mob name="ÅõÁö¹üÁ¹°³">2201</mob>
+      <mob name="ÅõÁö¹üÁ¹°³">2201</mob>
+    </group>
+    <group name="L75_ÅÂÈ­¹«ÀÎ(S_KNIGHT)-Âü¸¶ÀÎ(KNIGHT)" vnum="2208">
+      <mob name="ÅÂÈ­¹«ÀÎ">2205</mob>
+      <mob name="ÅÂÈ­¹«ÀÎ">2205</mob>
+      <mob name="ÅõÁö¹ü">2203</mob>
+      <mob name="ÅõÁö¹ü">2203</mob>
+      <mob name="ÅõÁö¹ü">2203</mob>
+    </group>
+    <group name="L75_ÅÂÈ­¹«ÀÎ(S_KNIGHT)-ÅÂÈ­¹«ÀÎ(S_KNIGHT)" vnum="2209">
+      <mob name="ÅÂÈ­¹«ÀÎ">2205</mob>
+      <mob name="ÅÂÈ­¹«ÀÎ">2205</mob>
+      <mob name="Âü¸¶ÀÎ">2204</mob>
+      <mob name="Âü¸¶ÀÎ">2204</mob>
+      <mob name="Âü¸¶ÀÎ">2204</mob>
+    </group>
+    <group name="L61_È­¿°¿Õ(BOSS)-ÅÂÈ­¹«ÀÎ(S_KNIGHT)" vnum="2210">
+      <mob name="È­¿°¿Õ">2206</mob>
+      <mob name="ÅÂÈ­¹«ÀÎ">2205</mob>
+      <mob name="ÅÂÈ­¹«ÀÎ">2205</mob>
+      <mob name="Âü¸¶ÀÎ">2204</mob>
+      <mob name="È­·É">2202</mob>
+    </group>
+    <group name="L61_È­¿°¿Õ(BOSS)-ÅÂÈ­¹«ÀÎ(S_KNIGHT)" vnum="2211">
+      <mob name="È­¿°¿Õ">2206</mob>
+      <mob name="ÅÂÈ­¹«ÀÎ">2205</mob>
+      <mob name="Âü¸¶ÀÎ">2205</mob>
+      <mob name="Âü¸¶ÀÎ">2204</mob>
+      <mob name="È­·É">2202</mob>
+      <mob name="È­·É">2202</mob>
+      <mob name="È­·É">2202</mob>
+    </group>
+    <group name="L72_È­·æ(KING)-È­¿°¿Õ(BOSS)" vnum="2212">
+      <mob name="È­·æ">2291</mob>
+      <mob name="È­¿°¿Õ">2206</mob>
+      <mob name="ÅÂÈ­¹«ÀÎ">2205</mob>
+      <mob name="È­·É">2202</mob>
+      <mob name="È­·É">2202</mob>
+    </group>
+    <group name="L56_Ã»¿Íº´(S_PAWN)-Ç®ÀÙ¸Ó¸®µµ±úºñ(S_PAWN)" vnum="2101">
+      <mob name="Ã»¿Íº´">1301</mob>
+      <mob name="Ç®ÀÙ¸Ó¸®µµ±úºñ">1303</mob>
+      <mob name="Ç®ÀÙ¸Ó¸®µµ±úºñ">1303</mob>
+      <mob name="Ç®ÀÙ¸Ó¸®µµ±úºñ">1303</mob>
+    </group>
+    <group name="L56_Ã»¿Íº´(S_PAWN)-Ã»¿Íº´(S_PAWN)" vnum="2102">
+      <mob name="Ã»¿Íº´">1301</mob>
+      <mob name="Ã»¿Íº´">1301</mob>
+      <mob name="Ç®ÀÙ¸Ó¸®µµ±úºñ">1303</mob>
+      <mob name="Ç®ÀÙ¸Ó¸®µµ±úºñ">1303</mob>
+    </group>
+    <group name="L56_Ã»¿Íº´(S_PAWN)-Ã»¿Íº´(S_PAWN)" vnum="2103">
+      <mob name="Ã»¿Íº´">1301</mob>
+      <mob name="Ã»¿Íº´">1301</mob>
+      <mob name="Ã»¿Íº´">1301</mob>
+      <mob name="Ç®ÀÙ¸Ó¸®µµ±úºñ">1303</mob>
+    </group>
+    <group name="L58_Ã»¿ÍÀå(S_PAWN)-Ã»¿Íº´(S_PAWN)" vnum="2104">
+      <mob name="Ã»¿ÍÀå">1302</mob>
+      <mob name="Ã»¿Íº´">1301</mob>
+      <mob name="Ã»¿Íº´">1301</mob>
+    </group>
+    <group name="L58_Ã»¿ÍÀå(KNIGHT)-Ã»¿Íº´(S_PAWN)" vnum="2105">
+      <mob name="Ã»¿ÍÀå">1302</mob>
+      <mob name="Ã»¿Íº´">1301</mob>
+      <mob name="Ã»¿Íº´">1301</mob>
+      <mob name="Ã»¿ÍÀå">1302</mob>
+    </group>
+    <group name="L58_Ã»¿ÍÀå(KNIGHT)-Ã»¿ÍÀå(KNIGHT)" vnum="2106">
+      <mob name="Ã»¿ÍÀå">1302</mob>
+      <mob name="Ã»¿ÍÀå">1302</mob>
+      <mob name="Ã»¿ÍÀå">1302</mob>
+      <mob name="Ã»¿ÍÀå">1302</mob>
+    </group>
+    <group name="L60_¼ö±¸´ëÀå±º(KNIGHT)-Ã»¿ÍÀå(KNIGHT)" vnum="2107">
+      <mob name="¼ö±¸´ëÀå±º">1305</mob>
+      <mob name="Ã»¿ÍÀå">1302</mob>
+      <mob name="Ã»¿ÍÀå">1302</mob>
+      <mob name="Ã»¿ÍÀå">1302</mob>
+    </group>
+    <group name="L60_¼ö±¸´ëÀå±º(KNIGHT)-¼ö±¸´ëÀå±º(KNIGHT)" vnum="2108">
+      <mob name="¼ö±¸´ëÀå±º">1305</mob>
+      <mob name="¼ö±¸´ëÀå±º">1305</mob>
+      <mob name="Ã»¿ÍÀå">1302</mob>
+      <mob name="Ã»¿ÍÀå">1302</mob>
+    </group>
+    <group name="L74_´©··¹ü±Í(Boss)-¼ö±¸´ëÀå±º(KNIGHT)" vnum="2109">
+      <mob name="¼ö±¸´ëÀå±º">1305</mob>
+      <mob name="¼ö±¸´ëÀå±º">1305</mob>
+      <mob name="¼ö±¸´ëÀå±º">1305</mob>
+      <mob name="Ã»¿ÍÀå">1302</mob>
+      <mob name="Ã»¿ÍÀå">1302</mob>
+    </group>
+    <group name="L74_´©··¹ü±Í(Boss)-¼ö±¸´ëÀå±º(KNIGHT)" vnum="2110">
+      <mob name="´©··¹ü±Í">1304</mob>
+      <mob name="¼ö±¸´ëÀå±º">1305</mob>
+      <mob name="¼ö±¸´ëÀå±º">1305</mob>
+      <mob name="Ã»¿ÍÀå">1302</mob>
+      <mob name="Ã»¿ÍÀå">1302</mob>
+    </group>
+    <group name="L70_±âÁØNPC(Boss)-¾Æ¶ó³à(Boss)" vnum="11001">
+      <mob name=".">20025</mob>
+      <mob name="¾Æ¶ó³à">20002</mob>
+    </group>
+    <group name="L70_±âÁØNPC(Boss)-¾ÆÀ¯(Boss)" vnum="11002">
+      <mob name=".">20025</mob>
+      <mob name="¾ÆÀ¯">20003</mob>
+    </group>
+    <group name="L70_±âÁØNPC(Boss)-¾Æ¶ó³à(Boss)" vnum="11003">
+      <mob name=".">20025</mob>
+      <mob name="°ÅÁö">20004</mob>
+    </group>
+    <group name="L70_±âÁØNPC(Boss)-¿¬³ªÈ¯(Boss)" vnum="11004">
+      <mob name=".">20025</mob>
+      <mob name="¿¬³ªÈ¯">20005</mob>
+    </group>
+    <group name="L70_±âÁØNPC(Boss)-¹Ì¸®³»(Boss)" vnum="11005">
+      <mob name=".">20025</mob>
+      <mob name="¹Ì¸®³»">20006</mob>
+    </group>
+    <group name="L70_±âÁØNPC(Boss)-À»µÎÁö(Boss)" vnum="11006">
+      <mob name=".">20025</mob>
+      <mob name="À»µÎÁö">20011</mob>
+    </group>
+    <group name="L70_±âÁØNPC(Boss)-Ã¥¹ú·¡(Boss)" vnum="11007">
+      <mob name=".">20025</mob>
+      <mob name="¹é°í">20018</mob>
+    </group>
+    <group name="L70_±âÁØNPC(Boss)-¹î»ç°ø(Boss)" vnum="12001">
+      <mob name=".">20025</mob>
+      <mob name="À¯¶û">20012</mob>
+    </group>
+    <group name="L70_±âÁØNPC(Boss)-¹î»ç°ø(Boss)" vnum="12002">
+      <mob name=".">20025</mob>
+      <mob name="ÅÂ¿ì¶û">20014</mob>
+    </group>
+    <group name="L70_±âÁØNPC(Boss)-¹î»ç°ø(Boss)" vnum="12003">
+      <mob name=".">20025</mob>
+      <mob name="À¯È¯">20017</mob>
+    </group>
+    <group name="L70_±âÁØNPC(Boss)-¹î»ç°ø(Boss)" vnum="12004">
+      <mob name=".">20025</mob>
+      <mob name="¾ç½Å">20019</mob>
+    </group>
+    <group name="L70_´ÄÀºÇØÀû(Boss)-¹î»ç°ø(Boss)" vnum="12005">
+      <mob name=".">20025</mob>
+      <mob name="¾Æ¸²¸í">20021</mob>
+    </group>
+    <group name="L70_´ÄÀºÇØÀû(Boss)-¹î»ç°ø(Boss)" vnum="12006">
+      <mob name=".">20025</mob>
+      <mob name="À¯È­¶û">20024</mob>
+    </group>
+    <group name="L70_¸»(Boss)-Á¶¶û¸»(Boss)" vnum="12007">
+      <mob name=".">20025</mob>
+      <mob name="¸»">20029</mob>
+      <mob name="¸»">20029</mob>
+      <mob name="Á¶¶û¸»">20030</mob>
+      <mob name="Á¶¶û¸»">20030</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5001">
+      <mob name="ÇÏ¼±µ¿_¿øº´">5101</mob>
+      <mob name="ÇÏ¼±µ¿_¿øº´">5101</mob>
+      <mob name="ÇÏ¼±µ¿_¿øº´">5101</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5002">
+      <mob name="ÇÏ¼±µ¿_Åõ¸¶¿øº´">5102</mob>
+      <mob name="ÇÏ¼±µ¿_¿øº´">5101</mob>
+      <mob name="ÇÏ¼±µ¿_¿øº´">5101</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5003">
+      <mob name="ÇÏ¼±µ¿_Åõ¸¶¿øº´">5102</mob>
+      <mob name="ÇÏ¼±µ¿_Åõ¸¶¿øº´">5102</mob>
+      <mob name="ÇÏ¼±µ¿_¿øº´">5101</mob>
+      <mob name="ÇÏ¼±µ¿_¿øº´">5101</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5004">
+      <mob name="ÇÏ¼±µ¿_±â¹«¿øº´">5103</mob>
+      <mob name="ÇÏ¼±µ¿_Åõ¸¶¿øº´">5102</mob>
+      <mob name="ÇÏ¼±µ¿_¿øº´">5101</mob>
+      <mob name="ÇÏ¼±µ¿_¿øº´">5101</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5005">
+      <mob name="ÇÏ¼±µ¿_±â¹«¿øº´">5103</mob>
+      <mob name="ÇÏ¼±µ¿_±â¹«¿øº´">5103</mob>
+      <mob name="ÇÏ¼±µ¿_±â¹«¿øº´">5103</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5006">
+      <mob name="ÇÏ¼±µ¿_¿øÀå¼ö">5104</mob>
+      <mob name="ÇÏ¼±µ¿_±â¹«¿øº´">5103</mob>
+      <mob name="ÇÏ¼±µ¿_¿øº´">5101</mob>
+      <mob name="ÇÏ¼±µ¿_¿øº´">5101</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5007">
+      <mob name="ÇÏ¼±µ¿_¿øÀå¼ö">5104</mob>
+      <mob name="ÇÏ¼±µ¿_¿øÀå¼ö">5104</mob>
+      <mob name="ÇÏ¼±µ¿_±â¹«¿øº´">5103</mob>
+      <mob name="ÇÏ¼±µ¿_¿øº´">5101</mob>
+    </group>
+    <group name="L25_ÀÌ»ê´ë¼º(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5008">
+      <mob name="ÀÌ»ê´ë¼º">5161</mob>
+      <mob name="ÇÏ¼±µ¿_¿øÀå¼ö">5104</mob>
+      <mob name="ÇÏ¼±µ¿_±â¹«¿øº´">5103</mob>
+      <mob name="ÇÏ¼±µ¿_±â¹«¿øº´">5103</mob>
+      <mob name="ÇÏ¼±µ¿_¿øº´">5101</mob>
+      <mob name="ÇÏ¼±µ¿_¿øº´">5101</mob>
+      <mob name="ÇÏ¼±µ¿_¿øº´">5101</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5009">
+      <mob name="Áß¼±µ¿_¿øº´">5111</mob>
+      <mob name="Áß¼±µ¿_¿øº´">5111</mob>
+      <mob name="Áß¼±µ¿_¿øº´">5111</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5010">
+      <mob name="Áß¼±µ¿_Åõ¸¶¿øº´">5112</mob>
+      <mob name="Áß¼±µ¿_¿øº´">5111</mob>
+      <mob name="Áß¼±µ¿_¿øº´">5111</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5011">
+      <mob name="Áß¼±µ¿_Åõ¸¶¿øº´">5112</mob>
+      <mob name="Áß¼±µ¿_Åõ¸¶¿øº´">5112</mob>
+      <mob name="Áß¼±µ¿_¿øº´">5111</mob>
+      <mob name="Áß¼±µ¿_¿øº´">5111</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5012">
+      <mob name="Áß¼±µ¿_±â¹«¿øº´">5113</mob>
+      <mob name="Áß¼±µ¿_Åõ¸¶¿øº´">5112</mob>
+      <mob name="Áß¼±µ¿_¿øº´">5111</mob>
+      <mob name="Áß¼±µ¿_¿øº´">5111</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5013">
+      <mob name="Áß¼±µ¿_±â¹«¿øº´">5113</mob>
+      <mob name="Áß¼±µ¿_±â¹«¿øº´">5113</mob>
+      <mob name="Áß¼±µ¿_±â¹«¿øº´">5113</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5014">
+      <mob name="Áß¼±µ¿_¿øÀå¼ö">5114</mob>
+      <mob name="Áß¼±µ¿_±â¹«¿øº´">5113</mob>
+      <mob name="Áß¼±µ¿_¿øº´">5111</mob>
+      <mob name="Áß¼±µ¿_¿øº´">5111</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5015">
+      <mob name="Áß¼±µ¿_¿øÀå¼ö">5114</mob>
+      <mob name="Áß¼±µ¿_¿øÀå¼ö">5114</mob>
+      <mob name="Áß¼±µ¿_±â¹«¿øº´">5113</mob>
+      <mob name="Áß¼±µ¿_¿øº´">5111</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5016">
+      <mob name="Áß¼±µ¿_µ¹¿ø¼þÀÌ">5115</mob>
+      <mob name="Áß¼±µ¿_¿øÀå¼ö">5114</mob>
+      <mob name="Áß¼±µ¿_¿øÀå¼ö">5114</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5017">
+      <mob name="Áß¼±µ¿_µ¹¿ø¼þÀÌ">5116</mob>
+      <mob name="Áß¼±µ¿_¿øÀå¼ö">5114</mob>
+      <mob name="Áß¼±µ¿_±â¹«¿øº´">5113</mob>
+      <mob name="Áß¼±µ¿_¿øº´">5111</mob>
+      <mob name="Áß¼±µ¿_¿øº´">5111</mob>
+    </group>
+    <group name="L25_ÀÌ»ê´ë¼º(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5018">
+      <mob name="ÅëÃµ´ë¼º">5162</mob>
+      <mob name="Áß¼±µ¿_µ¹¿ø¼þÀÌ">5115</mob>
+      <mob name="Áß¼±µ¿_µ¹¿ø¼þÀÌ">5115</mob>
+      <mob name="Á¹°³¿ø¼þÀÌ">5114</mob>
+      <mob name="Á¹°³¿ø¼þÀÌ">5114</mob>
+      <mob name="Á¹°³¿ø¼þÀÌ">5114</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5019">
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5020">
+      <mob name="»ó¼±µ¿_Åõ¸¶¿øº´">5122</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5021">
+      <mob name="»ó¼±µ¿_Åõ¸¶¿øº´">5122</mob>
+      <mob name="»ó¼±µ¿_Åõ¸¶¿øº´">5122</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5022">
+      <mob name="»ó¼±µ¿_±â¹«¿øº´">5123</mob>
+      <mob name="»ó¼±µ¿_Åõ¸¶¿øº´">5122</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5023">
+      <mob name="»ó¼±µ¿_±â¹«¿øº´">5123</mob>
+      <mob name="»ó¼±µ¿_±â¹«¿øº´">5123</mob>
+      <mob name="»ó¼±µ¿_±â¹«¿øº´">5123</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5024">
+      <mob name="»ó¼±µ¿_¿øÀå¼ö">5124</mob>
+      <mob name="»ó¼±µ¿_±â¹«¿øº´">5123</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5025">
+      <mob name="»ó¼±µ¿_¿øÀå¼ö">5124</mob>
+      <mob name="»ó¼±µ¿_¿øÀå¼ö">5124</mob>
+      <mob name="»ó¼±µ¿_±â¹«¿øº´">5123</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5026">
+      <mob name="»ó¼±µ¿_µ¹¿ø¼þÀÌ">5125</mob>
+      <mob name="»ó¼±µ¿_¿øÀå¼ö">5124</mob>
+      <mob name="»ó¼±µ¿_±â¹«¿øº´">5123</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5027">
+      <mob name="»ó¼±µ¿_±Ý¿ø¼þÀÌ">5126</mob>
+      <mob name="»ó¼±µ¿_µ¹¿ø¼þÀÌ">5125</mob>
+      <mob name="»ó¼±µ¿_¿øÀå¼ö">5124</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+    </group>
+    <group name="L25_Á¹°³¿ø¼þÀÌ(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5028">
+      <mob name="»ó¼±µ¿_±Ý¿ø¼þÀÌ">5127</mob>
+      <mob name="»ó¼±µ¿_µ¹¿ø¼þÀÌ">5125</mob>
+      <mob name="»ó¼±µ¿_¿øÀå¼ö">5124</mob>
+      <mob name="»ó¼±µ¿_¿øÀå¼ö">5124</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+      <mob name="»ó¼±µ¿_¿øº´">5121</mob>
+    </group>
+    <group name="L25_Á¦Ãµ´ë¼º(pawn)_Á¹°³¿ø¼þÀÌ(S_pawn)" vnum="5029">
+      <mob name="Á¦Ãµ´ë¼º">5163</mob>
+      <mob name="»ó¼±µ¿_±Ý¿ø¼þÀÌ">5126</mob>
+      <mob name="»ó¼±µ¿_µ¹¿ø¼þÀÌ">5125</mob>
+      <mob name="»ó¼±µ¿_µ¹¿ø¼þÀÌ">5125</mob>
+      <mob name="»ó¼±µ¿_¿øÀå¼ö">5124</mob>
+      <mob name="»ó¼±µ¿_¿øÀå¼ö">5124</mob>
+      <mob name="»ó¼±µ¿_¿øÀå¼ö">5124</mob>
+    </group>
+    <group name="L25_¸¸¿ìÀý_µé°³" vnum="8501">
+      <mob name="µé°³">8501</mob>
+      <mob name="µé°³">8501</mob>
+      <mob name="µé°³">8501</mob>
+      <mob name="µé°³">8501</mob>
+    </group>
+    <group name="L25_¸¸¿ìÀý_¸ËµÅÁö" vnum="8502">
+      <mob name="¸äµÅÁö">8502</mob>
+      <mob name="¸äµÅÁö">8502</mob>
+      <mob name="¸äµÅÁö">8502</mob>
+      <mob name="¸äµÅÁö">8502</mob>
+    </group>
+    <group name="L25_¸¸¿ìÀý_°õ" vnum="8503">
+      <mob name="°õ">8503</mob>
+      <mob name="°õ">8503</mob>
+      <mob name="°õ">8503</mob>
+      <mob name="°õ">8503</mob>
+    </group>
+    <group name="L25_¸¸¿ìÀý_´ëÈ£" vnum="8504">
+      <mob name="´ëÈ£">8504</mob>
+      <mob name="´ëÈ£">8504</mob>
+      <mob name="´ëÈ£">8504</mob>
+      <mob name="´ëÈ£">8504</mob>
+    </group>
+    <group name="L25_¸¸¿ìÀý_°Å´ë_Èæ¿õ±Í" vnum="8505">
+      <mob name="°Å´ë_Èæ¿õ±Í">8505</mob>
+      <mob name="°Å´ë_Èæ¿õ±Í">8505</mob>
+      <mob name="°Å´ë_Èæ¿õ±Í">8505</mob>
+      <mob name="°Å´ë_Èæ¿õ±Í">8505</mob>
+    </group>
+    <group name="L25_¸¸¿ìÀý_Ã»¿ÍÀå" vnum="8506">
+      <mob name="Ã»¿ÍÀå">8506</mob>
+      <mob name="Ã»¿ÍÀå">8506</mob>
+      <mob name="Ã»¿ÍÀå">8506</mob>
+      <mob name="Ã»¿ÍÀå">8506</mob>
+    </group>
+    <group name="L25_¸¸¿ìÀý_»ç¸·ÀÇ¹«¹ýÀÚ" vnum="8507">
+      <mob name="»ç¸·ÀÇ¹«¹ýÀÚ">8507</mob>
+      <mob name="»ç¸·ÀÇ¹«¹ýÀÚ">8507</mob>
+      <mob name="»ç¸·ÀÇ¹«¹ýÀÚ">8507</mob>
+      <mob name="»ç¸·ÀÇ¹«¹ýÀÚ">8507</mob>
+    </group>
+    <group name="L25_¸¸¿ìÀý_¹Ð±³°­¹Ú·É" vnum="8508">
+      <mob name="¹Ð±³°­¹Ú·É">8508</mob>
+      <mob name="¹Ð±³°­¹Ú·É">8508</mob>
+      <mob name="¹Ð±³°­¹Ú·É">8508</mob>
+      <mob name="¹Ð±³°­¹Ú·É">8508</mob>
+    </group>
+    <group name="L25_¸¸¿ìÀý_¹Ð±³¼ÒÈ¯·É" vnum="8509">
+      <mob name="¹Ð±³¼ÒÈ¯·É">8509</mob>
+      <mob name="¹Ð±³¼ÒÈ¯·É">8509</mob>
+      <mob name="¹Ð±³¼ÒÈ¯·É">8509</mob>
+      <mob name="¹Ð±³¼ÒÈ¯·É">8509</mob>
+    </group>
+    <group name="L25_¸¸¿ìÀý_ÅÂÈ­¹«ÀÎ" vnum="8510">
+      <mob name="ÅÂÈ­¹«ÀÎ">8510</mob>
+      <mob name="ÅÂÈ­¹«ÀÎ">8510</mob>
+      <mob name="ÅÂÈ­¹«ÀÎ">8510</mob>
+      <mob name="ÅÂÈ­¹«ÀÎ">8510</mob>
+    </group>
+    <group name="L25_¸¸¿ìÀý_¾óÀ½°í·½" vnum="8511">
+      <mob name="¾óÀ½°í·½">8511</mob>
+      <mob name="¾óÀ½°í·½">8511</mob>
+      <mob name="¾óÀ½°í·½">8511</mob>
+      <mob name="¾óÀ½°í·½">8511</mob>
+    </group>
+    <group name="´ÙÀÌ¾Æ¸óµå±¤¸Æ" vnum="20047">
+      <mob name="´ÙÀÌ¾Æ¸óµå±¤¸Æ">20047</mob>
+    </group>
+    <group name="È£¹Ú±¤¸Æ" vnum="20048">
+      <mob name="È£¹Ú±¤¸Æ">20048</mob>
+    </group>
+    <group name="È­¼®¸ñ±¤¸Æ" vnum="20049">
+      <mob name="È­¼®¸ñ±¤¸Æ">20049</mob>
+    </group>
+    <group name="±¸¸®±¤¸Æ" vnum="20050">
+      <mob name="±¸¸®±¤¸Æ">20050</mob>
+    </group>
+    <group name="Àº¸Æ" vnum="20051">
+      <mob name="Àº¸Æ">20051</mob>
+    </group>
+    <group name="±Ý¸Æ" vnum="20052">
+      <mob name="±Ý¸Æ">20052</mob>
+    </group>
+    <group name="¿Á¼®¸Æ" vnum="20053">
+      <mob name="¿Á¼®¸Æ">20053</mob>
+    </group>
+    <group name="Èæ´Ü¼®¸Æ" vnum="20054">
+      <mob name="Èæ´Ü¼®¸Æ">20054</mob>
+    </group>
+    <group name="Á¶°³¹«´õ±â" vnum="20055">
+      <mob name="Á¶°³¹«´õ±â">20055</mob>
+    </group>
+    <group name="¹é±Ý¸Æ" vnum="20056">
+      <mob name="¹é±Ý¸Æ">20056</mob>
+    </group>
+    <group name="¼öÁ¤¼®¸Æ" vnum="20057">
+      <mob name="¼öÁ¤¼®¸Æ">20057</mob>
+    </group>
+    <group name="ÀÚ¼öÁ¤¼®¸Æ" vnum="20058">
+      <mob name="ÀÚ¼öÁ¤¼®¸Æ">20058</mob>
+    </group>
+    <group name="Ãµ·ç±¤¸Æ" vnum="20059">
+      <mob name="Ãµ·ç±¤¸Æ">20059</mob>
+    </group>
+    <group name="¹ØµÕ±Í¸ñ" vnum="2301">
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+    </group>
+    <group name="¸ñ·É_¹ØµÕ±Í¸ñ" vnum="2302">
+      <mob name="¸ñ·É">2303</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+    </group>
+    <group name="¸ñ·É_¹ØµÕ±Í¸ñ" vnum="2303">
+      <mob name="¸ñ·É">2303</mob>
+      <mob name="¸ñ·É">2303</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+    </group>
+    <group name="¸ñ·É" vnum="2304">
+      <mob name="¸ñ·É">2303</mob>
+      <mob name="¸ñ·É">2303</mob>
+      <mob name="¸ñ·É">2303</mob>
+    </group>
+    <group name="È­·ù±Í¸ñ_¸ñ·É" vnum="2305">
+      <mob name="È­·ù±Í¸ñ">2304</mob>
+      <mob name="¸ñ·É">2303</mob>
+      <mob name="¸ñ·É">2303</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+    </group>
+    <group name="È­·ù±Í¸ñ_¹ØµÕ±Í¸ñ" vnum="2306">
+      <mob name="È­·ù±Í¸ñ">2304</mob>
+      <mob name="È­·ù±Í¸ñ">2304</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+    </group>
+    <group name="È­·ù±Í¸ñ_¸ñ·É" vnum="2307">
+      <mob name="È­·ù±Í¸ñ">2304</mob>
+      <mob name="È­·ù±Í¸ñ">2304</mob>
+      <mob name="¸ñ·É">2303</mob>
+      <mob name="¸ñ·É">2303</mob>
+      <mob name="¸ñ·É">2303</mob>
+    </group>
+    <group name="È­·ù±Í¸ñ_¸ñ·É" vnum="2308">
+      <mob name="È­·ù±Í¸ñ">2304</mob>
+      <mob name="È­·ù±Í¸ñ">2304</mob>
+      <mob name="È­·ù±Í¸ñ">2304</mob>
+      <mob name="È­·ù±Í¸ñ">2304</mob>
+    </group>
+    <group name="Èæ±Í¸ñ_¸ñ·É" vnum="2309">
+      <mob name="Èæ±Í¸ñ">2305</mob>
+      <mob name="È­·ù±Í¸ñ">2304</mob>
+      <mob name="È­·ù±Í¸ñ">2304</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+    </group>
+    <group name="Èæ±Í¸ñ_¹ØµÕ±Í¸ñ" vnum="2310">
+      <mob name="Èæ±Í¸ñ">2305</mob>
+      <mob name="Èæ±Í¸ñ">2305</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+    </group>
+    <group name="Èæ±Í¸ñ_¸ñ·É" vnum="2311">
+      <mob name="Èæ±Í¸ñ">2305</mob>
+      <mob name="Èæ±Í¸ñ">2305</mob>
+      <mob name="¸ñ·É">2303</mob>
+      <mob name="¸ñ·É">2303</mob>
+      <mob name="¸ñ·É">2303</mob>
+    </group>
+    <group name="Èæ±Í¸ñ_¸ñ·É" vnum="2312">
+      <mob name="Èæ±Í¸ñ">2305</mob>
+      <mob name="Èæ±Í¸ñ">2305</mob>
+      <mob name="È­·ù±Í¸ñ">2305</mob>
+      <mob name="È­·ù±Í¸ñ">2305</mob>
+      <mob name="È­·ù±Í¸ñ">2305</mob>
+    </group>
+    <group name="Èæ±Í¸ñ_¸ñ·É" vnum="2313">
+      <mob name="Èæ±Í¸ñ">2305</mob>
+      <mob name="Èæ±Í¸ñ">2305</mob>
+      <mob name="Èæ±Í¸ñ">2305</mob>
+      <mob name="Èæ±Í¸ñ">2305</mob>
+    </group>
+    <group name="°Å´ë±Í¸ñ" vnum="2314">
+      <mob name="°Å´ë±Í¸ñ">2306</mob>
+      <mob name="Èæ±Í¸ñ">2305</mob>
+      <mob name="Èæ±Í¸ñ">2304</mob>
+      <mob name="È­·ù±Í¸ñ">2304</mob>
+      <mob name="È­·ù±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2302</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2305</mob>
+      <mob name="¸ñ·É">2303</mob>
+      <mob name="¸ñ·É">2303</mob>
+    </group>
+    <group name="¹ØµÕ±Í¸ñ" vnum="2320">
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+    </group>
+    <group name="¹ØµÕ±Í¸ñ" vnum="2321">
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+    </group>
+    <group name="¸ñ·É_¹ØµÕ±Í¸ñ" vnum="2322">
+      <mob name="¸ñ·É">2313</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+    </group>
+    <group name="¸ñ·É_¹ØµÕ±Í¸ñ" vnum="2323">
+      <mob name="¸ñ·É">2313</mob>
+      <mob name="¸ñ·É">2313</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+    </group>
+    <group name="¸ñ·É" vnum="2324">
+      <mob name="¸ñ·É">2313</mob>
+      <mob name="¸ñ·É">2313</mob>
+      <mob name="¸ñ·É">2313</mob>
+    </group>
+    <group name="È­·ù±Í¸ñ_¸ñ·É" vnum="2325">
+      <mob name="È­·ù±Í¸ñ">2314</mob>
+      <mob name="¸ñ·É">2313</mob>
+      <mob name="¸ñ·É">2313</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+    </group>
+    <group name="È­·ù±Í¸ñ_¹ØµÕ±Í¸ñ" vnum="2326">
+      <mob name="È­·ù±Í¸ñ">2314</mob>
+      <mob name="È­·ù±Í¸ñ">2314</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+    </group>
+    <group name="È­·ù±Í¸ñ_¸ñ·É" vnum="2327">
+      <mob name="È­·ù±Í¸ñ">2314</mob>
+      <mob name="È­·ù±Í¸ñ">2314</mob>
+      <mob name="¸ñ·É">2313</mob>
+      <mob name="¸ñ·É">2313</mob>
+      <mob name="¸ñ·É">2313</mob>
+    </group>
+    <group name="È­·ù±Í¸ñ_¸ñ·É" vnum="2328">
+      <mob name="È­·ù±Í¸ñ">2314</mob>
+      <mob name="È­·ù±Í¸ñ">2314</mob>
+      <mob name="È­·ù±Í¸ñ">2314</mob>
+      <mob name="È­·ù±Í¸ñ">2314</mob>
+    </group>
+    <group name="Èæ±Í¸ñ_¸ñ·É" vnum="2329">
+      <mob name="Èæ±Í¸ñ">2315</mob>
+      <mob name="È­·ù±Í¸ñ">2314</mob>
+      <mob name="È­·ù±Í¸ñ">2314</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+    </group>
+    <group name="Èæ±Í¸ñ_¹ØµÕ±Í¸ñ" vnum="2330">
+      <mob name="Èæ±Í¸ñ">2315</mob>
+      <mob name="Èæ±Í¸ñ">2315</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+    </group>
+    <group name="Èæ±Í¸ñ_¸ñ·É" vnum="2331">
+      <mob name="Èæ±Í¸ñ">2315</mob>
+      <mob name="Èæ±Í¸ñ">2315</mob>
+      <mob name="¸ñ·É">2313</mob>
+      <mob name="¸ñ·É">2313</mob>
+      <mob name="¸ñ·É">2313</mob>
+    </group>
+    <group name="Èæ±Í¸ñ_¸ñ·É" vnum="2332">
+      <mob name="Èæ±Í¸ñ">2315</mob>
+      <mob name="Èæ±Í¸ñ">2315</mob>
+      <mob name="È­·ù±Í¸ñ">2315</mob>
+      <mob name="È­·ù±Í¸ñ">2315</mob>
+      <mob name="È­·ù±Í¸ñ">2315</mob>
+    </group>
+    <group name="Èæ±Í¸ñ_¸ñ·É" vnum="2333">
+      <mob name="Èæ±Í¸ñ">2315</mob>
+      <mob name="Èæ±Í¸ñ">2315</mob>
+      <mob name="Èæ±Í¸ñ">2315</mob>
+      <mob name="Èæ±Í¸ñ">2315</mob>
+    </group>
+    <group name="°Å´ë±Í¸ñ" vnum="2334">
+      <mob name="°Å´ë±Í¸ñ">2316</mob>
+      <mob name="Èæ±Í¸ñ">2315</mob>
+      <mob name="Èæ±Í¸ñ">2314</mob>
+      <mob name="È­·ù±Í¸ñ">2314</mob>
+      <mob name="È­·ù±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2312</mob>
+      <mob name="¹ØµÕ±Í¸ñ">2315</mob>
+      <mob name="¸ñ·É">2313</mob>
+      <mob name="¸ñ·É">2313</mob>
+    </group>
+    <group name="Åõ±Íº´" vnum="1401">
+      <mob name="Schakalgladiator">2605</mob>
+      <mob name="Weiser Schakal">2603</mob>
+      <mob name="Schakalsoldat">2601</mob>
+      <mob name="Zerberus">2602</mob>
+      <mob name="Zerberus">2602</mob>
+    </group>
+    <group name="Åõ±âÃ´ÈÄº´" vnum="1402">
+      <mob name="Schlangenassassine">2654</mob>
+      <mob name="Gladius">2653</mob>
+      <mob name="Gladius">2653</mob>
+      <mob name="Gladius">2653</mob>
+      <mob name="Schlangenhexe">2652</mob>
+    </group>
+    <group name="Åõ±ÍÃµÀå¼ö" vnum="1403">
+      <mob name="Schlangenassassine">2654</mob>
+      <mob name="Gladius">2653</mob>
+      <mob name="Gladius">2653</mob>
+    </group>
+    <group name="¼®ÀÎ" vnum="1501">
+      <mob name="Zombiebeserker">2684</mob>
+      <mob name="Zombiehexe">2683</mob>
+      <mob name="Zombie Legionär">2682</mob>
+      <mob name="Gemeiner Zombieriese">2546</mob>
+      <mob name="Gemeiner Zombieriese">2546</mob>
+      <mob name="Gemeiner Zombieriese">2546</mob>
+    </group>
+    <group name="Åõ¼®ÀÎ" vnum="1502">
+      <mob name="Zombiebeserker">2684</mob>
+      <mob name="Zombiehexe">2683</mob>
+      <mob name="Zombie Legionär">2682</mob>
+      <mob name="Gemeiner Zombieriese">2546</mob>
+      <mob name="Gemeiner Zombieriese">2546</mob>
+      <mob name="Gemeiner Zombieriese">2546</mob>
+    </group>
+    <group name="°Å´ëÅõ¼®ÀÎ" vnum="1503">
+      <mob name="Zombiebeserker">2684</mob>
+      <mob name="Zombiehexe">2683</mob>
+      <mob name="Zombie Legionär">2682</mob>
+      <mob name="Gemeiner Zombieriese">2546</mob>
+      <mob name="Gemeiner Zombieriese">2546</mob>
+      <mob name="Gemeiner Zombieriese">2546</mob>
+    </group>
+    <group name="Åõ±ÍÀÏ²Û" vnum="1601">
+      <mob name="Schlangenassassine">2654</mob>
+      <mob name="Schlangenhexe">2652</mob>
+      <mob name="Schlangenhexe">2652</mob>
+      <mob name="Schlangenhexe">2652</mob>
+      <mob name="Gladius">2653</mob>
+      <mob name="Gladius">2653</mob>
+    </group>
+    <group name="Åõ±Í°¨Âûº´" vnum="1602">
+      <mob name="Schlangenassassine">2654</mob>
+      <mob name="Schlangenhexe">2652</mob>
+      <mob name="Schlangenhexe">2652</mob>
+      <mob name="Schlangenhexe">2652</mob>
+      <mob name="Gladius">2653</mob>
+      <mob name="Gladius">2653</mob>
+    </group>
+    <group name="Åõ±Í¹éÀå¼ö" vnum="1603">
+      <mob name="Schlangenassassine">2654</mob>
+      <mob name="Schlangenhexe">2652</mob>
+      <mob name="Schlangenhexe">2652</mob>
+      <mob name="Schlangenhexe">2652</mob>
+      <mob name="Gladius">2653</mob>
+      <mob name="Gladius">2653</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇ¾óÀ½»Ô¹ü°í·¡_ÃµÀÇºù¸¶" vnum="2401">
+      <mob name="ÃµÀÇ¾óÀ½»Ô¹ü°í·¡">1132</mob>
+      <mob name="ÃµÀÇºù¸¶">1131</mob>
+      <mob name="ÃµÀÇºù¸¶">1131</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇ¾óÀ½»Ô¹ü°í·¡_ÃµÀÇ¾óÀ½»Ô¹ü°í·¡" vnum="2402">
+      <mob name="ÃµÀÇ¾óÀ½»Ô¹ü°í·¡">1132</mob>
+      <mob name="ÃµÀÇ¾óÀ½»Ô¹ü°í·¡">1132</mob>
+      <mob name="ÃµÀÇºù¸¶">1131</mob>
+      <mob name="ÃµÀÇºù¸¶">1131</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇ¾óÀ½»Ô¹ü°í·¡_ÃµÀÇ¾óÀ½»Ô¹ü°í·¡" vnum="2403">
+      <mob name="ÃµÀÇ¾óÀ½»Ô¹ü°í·¡">1132</mob>
+      <mob name="ÃµÀÇ¾óÀ½»Ô¹ü°í·¡">1132</mob>
+      <mob name="ÃµÀÇ¾óÀ½»Ô¹ü°í·¡">1132</mob>
+      <mob name="ÃµÀÇºù¸¶">1131</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇºùÃæ_ÃµÀÇ¾óÀ½»Ô¹ü°í·¡" vnum="2404">
+      <mob name="ÃµÀÇºùÃæ">1133</mob>
+      <mob name="ÃµÀÇ¾óÀ½»Ô¹ü°í·¡">1132</mob>
+      <mob name="ÃµÀÇºù¸¶">1131</mob>
+      <mob name="ÃµÀÇºù¸¶">1131</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇºùÃæ_ÃµÀÇºùÃæ" vnum="2405">
+      <mob name="ÃµÀÇºùÃæ">1133</mob>
+      <mob name="ÃµÀÇºùÃæ">1133</mob>
+      <mob name="ÃµÀÇ¾óÀ½»Ô¹ü°í·¡">1132</mob>
+      <mob name="ÃµÀÇºù¸¶">1131</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇ¼³±¸_ÃµÀÇºùÃæ" vnum="2406">
+      <mob name="ÃµÀÇ¼³±¸">1134</mob>
+      <mob name="ÃµÀÇºùÃæ">1133</mob>
+      <mob name="ÃµÀÇ¾óÀ½»Ô¹ü°í·¡">1132</mob>
+      <mob name="ÃµÀÇºù¸¶">1131</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇ¼³±¸_ÃµÀÇ¼³±¸" vnum="2407">
+      <mob name="ÃµÀÇ¼³±¸">1134</mob>
+      <mob name="ÃµÀÇ¼³±¸">1134</mob>
+      <mob name="ÃµÀÇºùÃæ">1133</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇºùÀÎ_ÃµÀÇ¼³±¸" vnum="2408">
+      <mob name="ÃµÀÇºùÀÎ">1135</mob>
+      <mob name="ÃµÀÇ¼³±¸">1134</mob>
+      <mob name="ÃµÀÇ¼³±¸">1134</mob>
+      <mob name="ÃµÀÇºùÃæ">1133</mob>
+      <mob name="ÃµÀÇºù¸¶">1131</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇºùÀÎ_ÃµÀÇºùÀÎ" vnum="2409">
+      <mob name="ÃµÀÇºùÀÎ">1135</mob>
+      <mob name="ÃµÀÇºùÀÎ">1135</mob>
+      <mob name="ÃµÀÇ¼³±¸">1134</mob>
+      <mob name="ÃµÀÇ¼³±¸">1134</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇ¼³°ÅÀÎ_ÃµÀÇºùÀÎ" vnum="2410">
+      <mob name="ÃµÀÇ¼³°ÅÀÎ">1136</mob>
+      <mob name="ÃµÀÇºùÀÎ">1135</mob>
+      <mob name="ÃµÀÇºùÀÎ">1135</mob>
+      <mob name="ÃµÀÇºùÃæ">1133</mob>
+      <mob name="ÃµÀÇºùÃæ">1133</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇ¼³°ÅÀÎ_ÃµÀÇ¼³°ÅÀÎ" vnum="2411">
+      <mob name="ÃµÀÇ¼³°ÅÀÎ">1136</mob>
+      <mob name="ÃµÀÇ¼³°ÅÀÎ">1136</mob>
+      <mob name="ÃµÀÇºùÀÎ">1135</mob>
+      <mob name="ÃµÀÇºùÀÎ">1135</mob>
+      <mob name="ÃµÀÇ¼³±¸">1134</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇ¾óÀ½°í·½_ÃµÀÇºùÀÎ" vnum="2412">
+      <mob name="ÃµÀÇ¾óÀ½°í·½">1137</mob>
+      <mob name="ÃµÀÇºùÀÎ">1135</mob>
+      <mob name="ÃµÀÇºùÀÎ">1135</mob>
+      <mob name="ÃµÀÇ¼³°ÅÀÎ">1136</mob>
+      <mob name="ÃµÀÇ¼³°ÅÀÎ">1136</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇ¾óÀ½°í·½_ÃµÀÇ¾óÀ½°í·½" vnum="2413">
+      <mob name="ÃµÀÇ¾óÀ½°í·½">1137</mob>
+      <mob name="ÃµÀÇ¾óÀ½°í·½">1137</mob>
+      <mob name="ÃµÀÇ¼³°ÅÀÎ">1136</mob>
+      <mob name="ÃµÀÇ¼³°ÅÀÎ">1136</mob>
+      <mob name="ÃµÀÇ¼³°ÅÀÎ">1136</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇº´»ç_ÃµÀÇº´»ç" vnum="2414">
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇ±Ãº´_ÃµÀÇº´»ç" vnum="2415">
+      <mob name="ÃµÀÇ±Ãº´">2402</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇ±Ãº´_ÃµÀÇ±Ãº´" vnum="2416">
+      <mob name="ÃµÀÇ±Ãº´">2402</mob>
+      <mob name="ÃµÀÇ±Ãº´">2402</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇ¹ý»ç_ÃµÀÇ±Ãº´" vnum="2417">
+      <mob name="ÃµÀÇ¹ý»ç">2403</mob>
+      <mob name="ÃµÀÇ±Ãº´">2402</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇ¹ý»ç_ÃµÀÇ±Ãº´" vnum="2418">
+      <mob name="ÃµÀÇ¹ý»ç">2403</mob>
+      <mob name="ÃµÀÇ±Ãº´">2402</mob>
+      <mob name="ÃµÀÇ±Ãº´">2402</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇÀå¼ö_ÃµÀÇ¹ý»ç" vnum="2419">
+      <mob name="ÃµÀÇÀå¼ö">2404</mob>
+      <mob name="ÃµÀÇ¹ý»ç">2403</mob>
+      <mob name="ÃµÀÇ¹ý»ç">2403</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼1F_ÃµÀÇÀå¼ö_ÃµÀÇ¹ý»ç" vnum="2420">
+      <mob name="ÃµÀÇÀå¼ö">2404</mob>
+      <mob name="ÃµÀÇ¹ý»ç">2403</mob>
+      <mob name="ÃµÀÇ¹ý»ç">2403</mob>
+      <mob name="ÃµÀÇ±Ãº´">2402</mob>
+      <mob name="ÃµÀÇ±Ãº´">2402</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼2F_ÁøÃµÀÇº´»ç_ÁøÃµÀÇº´»ç" vnum="2421">
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼2F_ÁøÃµÀÇ±Ãº´_ÁøÃµÀÇº´»ç" vnum="2422">
+      <mob name="ÁøÃµÀÇ±Ãº´">2412</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼2F_ÁøÃµÀÇ±Ãº´_ÁøÃµÀÇ±Ãº´" vnum="2423">
+      <mob name="ÁøÃµÀÇ±Ãº´">2412</mob>
+      <mob name="ÁøÃµÀÇ±Ãº´">2412</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼2F_ÁøÃµÀÇ¹ý»ç_ÁøÃµÀÇ±Ãº´" vnum="2424">
+      <mob name="ÁøÃµÀÇ¹ý»ç">2413</mob>
+      <mob name="ÁøÃµÀÇ±Ãº´">2412</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼2F_ÁøÃµÀÇ¹ý»ç_ÁøÃµÀÇ±Ãº´" vnum="2425">
+      <mob name="ÁøÃµÀÇ¹ý»ç">2413</mob>
+      <mob name="ÁøÃµÀÇ±Ãº´">2412</mob>
+      <mob name="ÁøÃµÀÇ±Ãº´">2412</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼2F_ÁøÃµÀÇÀå¼ö_ÁøÃµÀÇ¹ý»ç" vnum="2426">
+      <mob name="ÁøÃµÀÇÀå¼ö">2414</mob>
+      <mob name="ÁøÃµÀÇ¹ý»ç">2413</mob>
+      <mob name="ÁøÃµÀÇ¹ý»ç">2413</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼2F_ÁøÃµÀÇÀå¼ö_ÁøÃµÀÇ¹ý»ç" vnum="2427">
+      <mob name="ÁøÃµÀÇÀå¼ö">2414</mob>
+      <mob name="ÁøÃµÀÇ¹ý»ç">2413</mob>
+      <mob name="ÁøÃµÀÇ¹ý»ç">2413</mob>
+      <mob name="ÁøÃµÀÇ±Ãº´">2412</mob>
+      <mob name="ÁøÃµÀÇ±Ãº´">2412</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼2F_ÃµÀÇÀå±º_ÃµÀÇÀå¼ö" vnum="2428">
+      <mob name="ÃµÀÇÀå±º">2491</mob>
+      <mob name="ÃµÀÇÀå¼ö">2404</mob>
+      <mob name="ÃµÀÇÀå¼ö">2404</mob>
+      <mob name="ÃµÀÇ¹ý»ç">2403</mob>
+      <mob name="ÃµÀÇ¹ý»ç">2403</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+      <mob name="ÃµÀÇº´»ç">2401</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼2F_ÁøÃµÀÇÀå±º_ÁøÃµÀÇÀå¼ö" vnum="2429">
+      <mob name="ÁøÃµÀÇÀå±º">2492</mob>
+      <mob name="ÁøÃµÀÇÀå¼ö">2414</mob>
+      <mob name="ÁøÃµÀÇÀå¼ö">2414</mob>
+      <mob name="ÁøÃµÀÇ¹ý»ç">2413</mob>
+      <mob name="ÁøÃµÀÇ¹ý»ç">2413</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+    </group>
+    <group name="ÃµÀÇµ¿±¼2F_¼ö·æ_ÁøÃµÀÇÀå±º" vnum="2430">
+      <mob name="¼ö·æ">2493</mob>
+      <mob name="ÁøÃµÀÇÀå±º">2492</mob>
+      <mob name="ÁøÃµÀÇÀå¼ö">2414</mob>
+      <mob name="ÁøÃµÀÇÀå¼ö">2414</mob>
+      <mob name="ÁøÃµÀÇ¹ý»ç">2413</mob>
+      <mob name="ÁøÃµÀÇ¹ý»ç">2413</mob>
+      <mob name="ÁøÃµÀÇ¹ý»ç">2413</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+      <mob name="ÁøÃµÀÇº´»ç">2411</mob>
+    </group>
+    <group name="¼­ÇÑ»ê»ï°Å¸®1" vnum="1151">
+      <mob name="ºùÃæ">1153</mob>
+      <mob name="ºùÃæ">1153</mob>
+      <mob name="¾óÀ½»Ô¹ü°í·¡">1152</mob>
+      <mob name="¾óÀ½»Ô¹ü°í·¡">1152</mob>
+    </group>
+    <group name="¼­ÇÑ»ê»ï°Å¸®2" vnum="1152">
+      <mob name="ºùÀÎ">1155</mob>
+      <mob name="ºùÀÎ">1155</mob>
+      <mob name="¼³±¸">1154</mob>
+      <mob name="¼³±¸">1154</mob>
+    </group>
+    <group name="¼­ÇÑ»ê»ï°Å¸®3" vnum="1153">
+      <mob name="¾óÀ½°í·½">1157</mob>
+      <mob name="¾óÀ½°í·½">1157</mob>
+      <mob name="¼³°ÅÀÎ">1156</mob>
+      <mob name="¼³°ÅÀÎ">1156</mob>
+    </group>
+    <group name="¿µºñ»ç¸·»ï°Å¸®1" vnum="7011">
+      <mob name="ºñ¸¶±Í¾È">7013</mob>
+      <mob name="ºñ¸¶±Í¾È">7013</mob>
+      <mob name="´ë¿ÕÀü°¥">7012</mob>
+      <mob name="´ë¿ÕÀü°¥">7012</mob>
+    </group>
+    <group name="¿µºñ»ç¸·»ï°Å¸®2" vnum="7012">
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">7016</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">7016</mob>
+      <mob name="Àü°¥ÀÎ°£">7014</mob>
+      <mob name="Àü°¥ÀÎ°£">7014</mob>
+    </group>
+    <group name="¿µºñ»ç¸·»ï°Å¸®3" vnum="7013">
+      <mob name="»ç¸·ÀÇ¹«¹ýÀÚ">7018</mob>
+      <mob name="»ç¸·ÀÇ¹«¹ýÀÚ">7018</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">7016</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">7016</mob>
+    </group>
+    <group name="¿µºñ»ç¸·»ï°Å¸®4" vnum="7014">
+      <mob name="»ç¸·ÀÇ¹«¹ýÀÚ">7018</mob>
+      <mob name="»ç¸·ÀÇ¹«¹ýÀÚ">7018</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç±Ãº´">7017</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç±Ãº´">7017</mob>
+    </group>
+    <group name="L72_»õ³¢°Å¹Ì(PAWN)-»õ³¢°Å¹Ì(PAWN)" vnum="2051">
+      <mob name="»õ³¢°Å¹Ì">2061</mob>
+      <mob name="»õ³¢°Å¹Ì">2061</mob>
+      <mob name="»õ³¢°Å¹Ì">2061</mob>
+    </group>
+    <group name="L73_µ¶°Å¹Ì(PAWN)-»õ³¢°Å¹Ì(PAWN)" vnum="2052">
+      <mob name="µ¶°Å¹Ì">2062</mob>
+      <mob name="»õ³¢°Å¹Ì">2061</mob>
+      <mob name="»õ³¢°Å¹Ì">2061</mob>
+    </group>
+    <group name="L73_µ¶°Å¹Ì(PAWN)-µ¶°Å¹Ì(PAWN)" vnum="2053">
+      <mob name="µ¶°Å¹Ì">2062</mob>
+      <mob name="µ¶°Å¹Ì">2062</mob>
+      <mob name="»õ³¢°Å¹Ì">2061</mob>
+    </group>
+    <group name="L74_ºÓÀºµ¶°Å¹Ì(S_PAWN)-µ¶°Å¹Ì(PAWN)" vnum="2054">
+      <mob name="ºÓÀºµ¶°Å¹Ì">2063</mob>
+      <mob name="µ¶°Å¹Ì">2062</mob>
+      <mob name="µ¶°Å¹Ì">2062</mob>
+    </group>
+    <group name="L74_ºÓÀºµ¶°Å¹Ì(S_PAWN)-ºÓÀºµ¶°Å¹Ì(S_PAWN)" vnum="2055">
+      <mob name="ºÓÀºµ¶°Å¹Ì">2063</mob>
+      <mob name="ºÓÀºµ¶°Å¹Ì">2063</mob>
+      <mob name="µ¶°Å¹Ì">2062</mob>
+    </group>
+    <group name="L75_Áý°Ô°Å¹Ì(S_PAWN)-ºÓÀºµ¶°Å¹Ì(S_PAWN)" vnum="2056">
+      <mob name="Áý°Ô°Å¹Ì">2064</mob>
+      <mob name="ºÓÀºµ¶°Å¹Ì">2063</mob>
+      <mob name="ºÓÀºµ¶°Å¹Ì">2063</mob>
+    </group>
+    <group name="L75_Áý°Ô°Å¹Ì(S_PAWN)-Áý°Ô°Å¹Ì(S_PAWN)" vnum="2057">
+      <mob name="Áý°Ô°Å¹Ì">2064</mob>
+      <mob name="Áý°Ô°Å¹Ì">2064</mob>
+      <mob name="ºÓÀºµ¶°Å¹Ì">2063</mob>
+    </group>
+    <group name="L74_º´Á¤°Å¹Ì(S_PAWN)-Áý°Ô°Å¹Ì(S_PAWN)" vnum="2058">
+      <mob name="º´Á¤°Å¹Ì">2065</mob>
+      <mob name="Áý°Ô°Å¹Ì">2064</mob>
+      <mob name="Áý°Ô°Å¹Ì">2064</mob>
+    </group>
+    <group name="L74_º´Á¤°Å¹Ì(S_PAWN)-º´Á¤°Å¹Ì(S_PAWN)" vnum="2059">
+      <mob name="º´Á¤°Å¹Ì">2065</mob>
+      <mob name="º´Á¤°Å¹Ì">2065</mob>
+      <mob name="Áý°Ô°Å¹Ì">2064</mob>
+    </group>
+    <group name="L68_´ë¿ÕÀü°¥(S_PAWN)-ºñ¸¶±Í¾È(S_PAWN)" vnum="2060">
+      <mob name="´ë¿ÕÀü°¥">2133</mob>
+      <mob name="ºñ¸¶±Í¾È">2132</mob>
+      <mob name="ºñ¸¶±Í¾È">2132</mob>
+      <mob name="ºñ¸¶±Í¾È">2132</mob>
+    </group>
+    <group name="L68_´ë¿ÕÀü°¥(S_PAWN)-´ë¿ÕÀü°¥(S_PAWN)" vnum="2061">
+      <mob name="´ë¿ÕÀü°¥">2133</mob>
+      <mob name="´ë¿ÕÀü°¥">2133</mob>
+      <mob name="ºñ¸¶±Í¾È">2132</mob>
+      <mob name="ºñ¸¶±Í¾È">2132</mob>
+    </group>
+    <group name="L68_´ë¿ÕÀü°¥(S_PAWN)-´ë¿ÕÀü°¥(S_PAWN)" vnum="2062">
+      <mob name="´ë¿ÕÀü°¥">2133</mob>
+      <mob name="´ë¿ÕÀü°¥">2133</mob>
+      <mob name="´ë¿ÕÀü°¥">2133</mob>
+      <mob name="ºñ¸¶±Í¾È">2132</mob>
+    </group>
+    <group name="L66_Àü°¥ÀÎ°£(KNIGHT)-Àü°¥ÀÎ°£(KNIGHT)" vnum="2063">
+      <mob name="Àü°¥ÀÎ°£">2134</mob>
+      <mob name="Àü°¥ÀÎ°£">2134</mob>
+      <mob name="´ë¿ÕÀü°¥">2133</mob>
+      <mob name="´ë¿ÕÀü°¥">2133</mob>
+    </group>
+    <group name="L67_Àü°¥±Ã¼ö(KNIGHT)-Àü°¥ÀÎ°£(KNIGHT)" vnum="2064">
+      <mob name="Àü°¥±Ã¼ö">2135</mob>
+      <mob name="Àü°¥ÀÎ°£">2134</mob>
+      <mob name="´ë¿ÕÀü°¥">2133</mob>
+      <mob name="´ë¿ÕÀü°¥">2133</mob>
+    </group>
+    <group name="L67_Àü°¥±Ã¼ö(KNIGHT)-Àü°¥±Ã¼ö(KNIGHT)" vnum="2065">
+      <mob name="Àü°¥±Ã¼ö">2135</mob>
+      <mob name="Àü°¥ÀÎ°£">2134</mob>
+      <mob name="Àü°¥ÀÎ°£">2134</mob>
+      <mob name="´ë¿ÕÀü°¥">2133</mob>
+    </group>
+    <group name="L69_¹ÝÀÎ¹Ý»ç±Ãº´(KNIGHT)-¹ÝÀÎ¹Ý»ç°Ëº´(KNIGHT)" vnum="2066">
+      <mob name="¹ÝÀÎ¹Ý»ç±Ãº´">2137</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">2136</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">2136</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">2136</mob>
+    </group>
+    <group name="L69_¹ÝÀÎ¹Ý»ç±Ãº´(KNIGHT)-¹ÝÀÎ¹Ý»ç±Ãº´(KNIGHT)" vnum="2067">
+      <mob name="¹ÝÀÎ¹Ý»ç±Ãº´">2137</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç±Ãº´">2137</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">2136</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">2136</mob>
+    </group>
+    <group name="L69_¹ÝÀÎ¹Ý»ç±Ãº´(KNIGHT)-¹ÝÀÎ¹Ý»ç±Ãº´(KNIGHT)" vnum="2068">
+      <mob name="¹ÝÀÎ¹Ý»ç±Ãº´">2137</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">2136</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">2136</mob>
+    </group>
+    <group name="L70_»ç¸·ÀÇ¹«¹ýÀÚ(S_KNIGHT)-¹ÝÀÎ¹Ý»ç±Ãº´(KNIGHT)" vnum="2069">
+      <mob name="»ç¸·ÀÇ¹«¹ýÀÚ">2138</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç±Ãº´">2137</mob>
+      <mob name="¹ÝÀÎ¹Ý»ç°Ëº´">2136</mob>
+      <mob name="Àü°¥±Ã¼ö">2135</mob>
+      <mob name="Àü°¥ÀÎ°£">2134</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_µé°³" vnum="171">
+      <mob name="µé°³">171</mob>
+      <mob name="µé°³">171</mob>
+      <mob name="µé°³">171</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_´Á°³" vnum="172">
+      <mob name="´Á´ë">172</mob>
+      <mob name="´Á´ë">172</mob>
+      <mob name="´Á´ë">172</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_µÎ¸ñ´Á´ë" vnum="173">
+      <mob name="µÎ¸ñ´Á´ë">173</mob>
+      <mob name="µÎ¸ñ´Á´ë">173</mob>
+      <mob name="µÎ¸ñ´Á´ë">173</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_Çª¸¥´Á´ë" vnum="174">
+      <mob name="Çª¸¥´Á´ë">174</mob>
+      <mob name="Çª¸¥´Á´ë">174</mob>
+      <mob name="Çª¸¥´Á´ë">174</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_Çª¸¥µÎ¸ñ´Á´ë" vnum="175">
+      <mob name="Çª¸¥µÎ¸ñ´Á´ë">175</mob>
+      <mob name="Çª¸¥µÎ¸ñ´Á´ë">175</mob>
+      <mob name="Çª¸¥µÎ¸ñ´Á´ë">175</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_È¸»ö´Á´ë" vnum="176">
+      <mob name="È¸»ö´Á´ë">176</mob>
+      <mob name="È¸»ö´Á´ë">176</mob>
+      <mob name="È¸»ö´Á´ë">176</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_È¸»öµÎ¸ñ´Á´ë" vnum="177">
+      <mob name="È¸»öµÎ¸ñ´Á´ë">177</mob>
+      <mob name="È¸»öµÎ¸ñ´Á´ë">177</mob>
+      <mob name="È¸»öµÎ¸ñ´Á´ë">177</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_¸äµÅÁö" vnum="178">
+      <mob name="¸äµÅÁö">178</mob>
+      <mob name="¸äµÅÁö">178</mob>
+      <mob name="¸äµÅÁö">178</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_ºÓÀº¸äµÅÁö" vnum="179">
+      <mob name="ºÓÀº¸äµÅÁö">179</mob>
+      <mob name="ºÓÀº¸äµÅÁö">179</mob>
+      <mob name="ºÓÀº¸äµÅÁö">179</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_°õ" vnum="180">
+      <mob name="°õ">180</mob>
+      <mob name="°õ">180</mob>
+      <mob name="°õ">180</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_È¸»ö°õ" vnum="181">
+      <mob name="È¸»ö°õ">181</mob>
+      <mob name="È¸»ö°õ">181</mob>
+      <mob name="È¸»ö°õ">181</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_°ËÀº°õ" vnum="182">
+      <mob name="°ËÀº°õ">182</mob>
+      <mob name="°ËÀº°õ">182</mob>
+      <mob name="°ËÀº°õ">182</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_ºÒ°õ" vnum="183">
+      <mob name="ºÒ°õ">183</mob>
+      <mob name="ºÒ°õ">183</mob>
+      <mob name="ºÒ°õ">183</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_È£¶ûÀÌ" vnum="184">
+      <mob name="È£¶ûÀÌ">184</mob>
+      <mob name="È£¶ûÀÌ">184</mob>
+      <mob name="È£¶ûÀÌ">184</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_´ëÈ£" vnum="185">
+      <mob name="´ëÈ£">185</mob>
+      <mob name="´ëÈ£">185</mob>
+      <mob name="´ëÈ£">185</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_¹é°á´Ü¿ø" vnum="351">
+      <mob name="¹é°á´Ü¿ø">351</mob>
+      <mob name="¹é°á´Ü¿ø">351</mob>
+      <mob name="¹é°á´Ü¿ø">351</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_¹é°á±Ãº´" vnum="352">
+      <mob name="¹é°á´Ü¿ø">352</mob>
+      <mob name="¹é°á´Ü¿ø">352</mob>
+      <mob name="¹é°á´Ü¿ø">352</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_¼Ò½ÉÇÑ¹ÌÁ¤" vnum="395">
+      <mob name="¼Ò½ÉÇÑ¹ÌÁ¤">395</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_¼Ò½ÉÇÑÀºÁ¤" vnum="396">
+      <mob name="¼Ò½ÉÇÑÀºÁ¤">396</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_¼Ò½ÉÇÑ¼¼¶û" vnum="397">
+      <mob name="¼Ò½ÉÇÑ¼¼¶û">397</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_¼Ò½ÉÇÑÁøÈñ" vnum="398">
+      <mob name="¼Ò½ÉÇÑÁøÈñ">398</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_ÈæÇ³±Ã¼ö" vnum="453">
+      <mob name="ÈæÇ³Àå¼ö">453</mob>
+      <mob name="ÈæÇ³Àå¼ö">453</mob>
+      <mob name="ÈæÇ³Àå¼ö">453</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_ÈæÇ³Àå¼ö" vnum="454">
+      <mob name="ÈæÇ³Àå¼ö">454</mob>
+      <mob name="ÈæÇ³Àå¼ö">454</mob>
+      <mob name="ÈæÇ³Àå¼ö">454</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_ÈæÇ³Àå¼ö" vnum="455">
+      <mob name="ÈæÇ³Àå¼ö">455</mob>
+      <mob name="ÈæÇ³Àå¼ö">455</mob>
+      <mob name="ÈæÇ³Àå¼ö">455</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_ÈæÇ³Àå¼ö" vnum="456">
+      <mob name="ÈæÇ³Àå¼ö">456</mob>
+      <mob name="ÈæÇ³Àå¼ö">456</mob>
+      <mob name="ÈæÇ³Àå¼ö">456</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_¿À¶ûÄÉº¸º´" vnum="551">
+      <mob name="¿À¶ûÄÉº¸º´">551</mob>
+      <mob name="¿À¶ûÄÉº¸º´">551</mob>
+      <mob name="¿À¶ûÄÉº¸º´">551</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_¿À¶ûÄÉÁ¹°³" vnum="552">
+      <mob name="¿À¶ûÄÉÁ¹°³">552</mob>
+      <mob name="¿À¶ûÄÉÁ¹°³">552</mob>
+      <mob name="¿À¶ûÄÉÁ¹°³">552</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_¿À¶ûÄÉ±Ã¼ö" vnum="553">
+      <mob name="¿À¶ûÄÉ±Ã¼ö">553</mob>
+      <mob name="¿À¶ûÄÉ±Ã¼ö">553</mob>
+      <mob name="¿À¶ûÄÉ±Ã¼ö">553</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_¿À¶ûÄÉÀå¼ö" vnum="554">
+      <mob name="¿À¶ûÄÉÀå¼ö">554</mob>
+      <mob name="¿À¶ûÄÉÀå¼ö">554</mob>
+      <mob name="¿À¶ûÄÉÀå¼ö">554</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_Áø¿õ±Í" vnum="654">
+      <mob name="Áø¿õ±Í">654</mob>
+      <mob name="Áø¿õ±Í">654</mob>
+      <mob name="Áø¿õ±Í">654</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_¹Ð±³ÃßÁ¾ÀÚ" vnum="751">
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">751</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">751</mob>
+      <mob name="¹Ð±³ÃßÁ¾ÀÚ">751</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_Áø¹Ð±³³ªÇÑÀå" vnum="774">
+      <mob name="Áø¹Ð±³³ªÇÑÀå">774</mob>
+      <mob name="Áø¹Ð±³³ªÇÑÀå">774</mob>
+      <mob name="Áø¹Ð±³³ªÇÑÀå">774</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_Áø¹Ð±³ÁýÇàº´" vnum="775">
+      <mob name="Áø¹Ð±³ÁýÇàº´">775</mob>
+      <mob name="Áø¹Ð±³ÁýÇàº´">775</mob>
+      <mob name="Áø¹Ð±³ÁýÇàº´">775</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_Áø¹Ð±³°­¹Ú·É" vnum="776">
+      <mob name="Áø¹Ð±³°­¹Ú·É">776</mob>
+      <mob name="Áø¹Ð±³°­¹Ú·É">776</mob>
+      <mob name="Áø¹Ð±³°­¹Ú·É">776</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_Áø¹Ð±³¼ÒÈ¯·É" vnum="777">
+      <mob name="Áø¹Ð±³¼ÒÈ¯·É">777</mob>
+      <mob name="Áø¹Ð±³¼ÒÈ¯·É">777</mob>
+      <mob name="Áø¹Ð±³¼ÒÈ¯·É">777</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_±«Áú°¨¿°ÀÚ" vnum="933">
+      <mob name="±«Áú°¨¿°ÀÚ">933</mob>
+      <mob name="±«Áú°¨¿°ÀÚ">933</mob>
+      <mob name="±«Áú°¨¿°ÀÚ">933</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_±«Áú°¨¿°±Ã¼ö" vnum="936">
+      <mob name="±«Áú°¨¿°±Ã¼ö">936</mob>
+      <mob name="±«Áú°¨¿°±Ã¼ö">936</mob>
+      <mob name="±«Áú°¨¿°±Ã¼ö">936</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_ºù¸¶" vnum="1171">
+      <mob name="ºù¸¶">1171</mob>
+      <mob name="ºù¸¶">1171</mob>
+      <mob name="ºù¸¶">1171</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_Ã»¿ÍÀå" vnum="1332">
+      <mob name="Ã»¿ÍÀå">1332</mob>
+      <mob name="Ã»¿ÍÀå">1332</mob>
+      <mob name="Ã»¿ÍÀå">1332</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_»õ³¢°Å¹Ì" vnum="2071">
+      <mob name="»õ³¢°Å¹Ì">2051</mob>
+      <mob name="»õ³¢°Å¹Ì">2051</mob>
+      <mob name="»õ³¢°Å¹Ì">2051</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_µ¶°Å¹Ì" vnum="2072">
+      <mob name="µ¶°Å¹Ì">2052</mob>
+      <mob name="µ¶°Å¹Ì">2052</mob>
+      <mob name="µ¶°Å¹Ì">2052</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_Áý°Ô°Å¹Ì" vnum="2074">
+      <mob name="Áý°Ô°Å¹Ì">2053</mob>
+      <mob name="Áý°Ô°Å¹Ì">2053</mob>
+      <mob name="Áý°Ô°Å¹Ì">2053</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_º´Á¤°Å¹Ì" vnum="2075">
+      <mob name="ÈæÇ³Àå¼ö">2054</mob>
+      <mob name="ÈæÇ³Àå¼ö">2054</mob>
+      <mob name="ÈæÇ³Àå¼ö">2054</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_»ç¸·ÀÇ¹«¹ýÀÚ" vnum="2158">
+      <mob name="»ç¸·ÀÇ¹«¹ýÀÚ">2158</mob>
+      <mob name="»ç¸·ÀÇ¹«¹ýÀÚ">2158</mob>
+      <mob name="»ç¸·ÀÇ¹«¹ýÀÚ">2158</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_»ó¼±µ¿¿øº´" vnum="5151">
+      <mob name="»ó¼±µ¿¿øº´">5151</mob>
+      <mob name="»ó¼±µ¿¿øº´">5151</mob>
+      <mob name="»ó¼±µ¿¿øº´">5151</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_»ó¼±µ¿Åõ¸¶¿øº´" vnum="5152">
+      <mob name="»ó¼±µ¿Åõ¸¶¿øº´">5152</mob>
+      <mob name="»ó¼±µ¿Åõ¸¶¿øº´">5152</mob>
+      <mob name="»ó¼±µ¿Åõ¸¶¿øº´">5152</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_»ó¼±µ¿±â¹«¿øº´" vnum="5153">
+      <mob name="»ó¼±µ¿±â¹«¿øº´">5153</mob>
+      <mob name="»ó¼±µ¿±â¹«¿øº´">5153</mob>
+      <mob name="»ó¼±µ¿±â¹«¿øº´">5153</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_»ó¼ºµ¿¿øÀå¼ö" vnum="5154">
+      <mob name="»ó¼±µ¿¿øÀå¼ö">5154</mob>
+      <mob name="»ó¼±µ¿¿øÀå¼ö">5154</mob>
+      <mob name="»ó¼±µ¿¿øÀå¼ö">5154</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_»ó¼±µ¿µ¹¿ø¼þÀÌ" vnum="5155">
+      <mob name="»ó¼±µ¿µ¹¿ø¼þÀÌ">5155</mob>
+      <mob name="»ó¼±µ¿µ¹¿ø¼þÀÌ">5155</mob>
+      <mob name="»ó¼±µ¿µ¹¿ø¼þÀÌ">5155</mob>
+    </group>
+    <group name="Äù½ºÆ®¿ë_»ó¼±µ¿±Ý¿ø¼þÀÌ" vnum="5156">
+      <mob name="»ó¼±µ¿±Ý¿ø¼þÀÌ">5156</mob>
+      <mob name="»ó¼±µ¿±Ý¿ø¼þÀÌ">5156</mob>
+      <mob name="»ó¼±µ¿±Ý¿ø¼þÀÌ">5156</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´Ã¢ÇÏ" vnum="9501">
+      <mob name="½Å¼öÃ¢ÇÏ°æºñ">11100</mob>
+      <mob name="½Å¼öÃ¢ÇÏ°æºñ">11100</mob>
+      <mob name="½Å¼öÃ¢ÇÏ°æºñ">11100</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´È°ÇÏ" vnum="9502">
+      <mob name="½Å¼öÈ°ÇÏ°æºñ">11101</mob>
+      <mob name="½Å¼öÈ°ÇÏ°æºñ">11101</mob>
+      <mob name="½Å¼öÈ°ÇÏ°æºñ">11101</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´Ã¢Áß" vnum="9503">
+      <mob name="½Å¼öÃ¢Áß°æºñ">11106</mob>
+      <mob name="½Å¼öÃ¢Áß°æºñ">11106</mob>
+      <mob name="½Å¼öÃ¢Áß°æºñ">11106</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´È°Áß" vnum="9504">
+      <mob name="½Å¼öÈ°Áß°æºñ">11107</mob>
+      <mob name="½Å¼öÈ°Áß°æºñ">11107</mob>
+      <mob name="½Å¼öÈ°Áß°æºñ">11107</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´Ã¢»ó" vnum="9505">
+      <mob name="½Å¼öÃ¢»ó°æºñ">11112</mob>
+      <mob name="½Å¼öÃ¢»ó°æºñ">11112</mob>
+      <mob name="½Å¼öÃ¢»ó°æºñ">11112</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´È°»ó" vnum="9506">
+      <mob name="½Å¼öÈ°»ó°æºñ">11113</mob>
+      <mob name="½Å¼öÈ°»ó°æºñ">11113</mob>
+      <mob name="½Å¼öÈ°»ó°æºñ">11113</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´Ã¢ÇÏ" vnum="9511">
+      <mob name="Áø³ëÃ¢ÇÏ°æºñ">11102</mob>
+      <mob name="Áø³ëÃ¢ÇÏ°æºñ">11102</mob>
+      <mob name="Áø³ëÃ¢ÇÏ°æºñ">11102</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´È°ÇÏ" vnum="9512">
+      <mob name="Áø³ëÈ°ÇÏ°æºñ">11103</mob>
+      <mob name="Áø³ëÈ°ÇÏ°æºñ">11103</mob>
+      <mob name="Áø³ëÈ°ÇÏ°æºñ">11103</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´Ã¢Áß" vnum="9513">
+      <mob name="Áø³ëÃ¢Áß°æºñ">11108</mob>
+      <mob name="Áø³ëÃ¢Áß°æºñ">11108</mob>
+      <mob name="Áø³ëÃ¢Áß°æºñ">11108</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´È°Áß" vnum="9514">
+      <mob name="Áø³ëÈ°Áß°æºñ">11109</mob>
+      <mob name="Áø³ëÈ°Áß°æºñ">11109</mob>
+      <mob name="Áø³ëÈ°Áß°æºñ">11109</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´Ã¢»ó" vnum="9515">
+      <mob name="Áø³ëÃ¢»ó°æºñ">11114</mob>
+      <mob name="Áø³ëÃ¢»ó°æºñ">11114</mob>
+      <mob name="Áø³ëÃ¢»ó°æºñ">11114</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´È°»ó" vnum="9516">
+      <mob name="Áø³ëÈ°»ó°æºñ">11115</mob>
+      <mob name="Áø³ëÈ°»ó°æºñ">11115</mob>
+      <mob name="Áø³ëÈ°»ó°æºñ">11115</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´Ã¢ÇÏ" vnum="9521">
+      <mob name="ÃµÁ¶Ã¢ÇÏ°æºñ">11104</mob>
+      <mob name="ÃµÁ¶Ã¢ÇÏ°æºñ">11104</mob>
+      <mob name="ÃµÁ¶Ã¢ÇÏ°æºñ">11104</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´È°ÇÏ" vnum="9522">
+      <mob name="ÃµÁ¶È°ÇÏ°æºñ">11105</mob>
+      <mob name="ÃµÁ¶È°ÇÏ°æºñ">11105</mob>
+      <mob name="ÃµÁ¶È°ÇÏ°æºñ">11105</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´Ã¢Áß" vnum="9523">
+      <mob name="ÃµÁ¶Ã¢Áß°æºñ">11110</mob>
+      <mob name="ÃµÁ¶Ã¢Áß°æºñ">11110</mob>
+      <mob name="ÃµÁ¶Ã¢Áß°æºñ">11110</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´È°Áß" vnum="9524">
+      <mob name="ÃµÁ¶È°Áß°æºñ">11111</mob>
+      <mob name="ÃµÁ¶È°Áß°æºñ">11111</mob>
+      <mob name="ÃµÁ¶È°Áß°æºñ">11111</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´Ã¢»ó" vnum="9525">
+      <mob name="ÃµÁ¶Ã¢»ó°æºñ">11116</mob>
+      <mob name="ÃµÁ¶Ã¢»ó°æºñ">11116</mob>
+      <mob name="ÃµÁ¶Ã¢»ó°æºñ">11116</mob>
+    </group>
+    <group name="°ø¼º¿ë°æºñº´È°»ó" vnum="9526">
+      <mob name="ÃµÁ¶È°»ó°æºñ">11117</mob>
+      <mob name="ÃµÁ¶È°»ó°æºñ">11117</mob>
+      <mob name="ÃµÁ¶È°»ó°æºñ">11117</mob>
+    </group>
+  </groups>
+</ymir2xml>
